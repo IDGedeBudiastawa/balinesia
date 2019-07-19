@@ -1,0 +1,2975 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.filmindonesia.org/ontology"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.filmindonesia.org/ontology">
+    <Prefix name="" IRI="http://www.filmindonesia.org/ontology"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#polling_11"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_14"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_15"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_23"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#topik_debat_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_35"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_43"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_9"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_31"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#konten"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_19"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#admin_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#balasan_tanggapan_4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_1"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#isi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#genre_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_6"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_27"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_13"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_39"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_15"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_10"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#artikel_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_22"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_34"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#balasan_tanggapan_3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_32"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_8"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_44"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_20"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_18"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#mendapat"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_10"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#genre_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_7"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#mempunyai"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_16"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_28"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_21"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_33"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#username"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_45"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_7"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_21"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_33"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_29"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#artikel_6"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#resensi_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#topik_debat_3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_15"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_17"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#topik_debat"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_8"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_29"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_11"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_23"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_17"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_32"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#balasan_tanggapan_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_25"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_34"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tanggapan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_46"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_6"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_10"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_22"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_9"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_20"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_50"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kategori"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#artikel_7"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#film_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#topik_debat_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_16"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_28"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_9"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#film_2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#balasan_tanggapan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_8"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#trailer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_18"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#user"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_24"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_12"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_47"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_23"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_35"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_18"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_11"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_31"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_6"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_15"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#artikel_4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_27"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#topik_debat_5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_39"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#artikel"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_19"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_21"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#resensi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_36"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_48"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_12"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_24"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_19"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_40"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#admin_4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#resensi_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_14"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#artikel_5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_26"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#balasan_tanggapan_7"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#topik_debat_4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_14"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_7"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_38"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_6"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_22"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_10"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#memberi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_25"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#person"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_37"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_13"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_16"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_13"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_41"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_41"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_11"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#admin_3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_25"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#film"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_37"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_8"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#artikel_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#balasan_tanggapan_6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#katalog"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#katalog_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#trailer_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_49"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_14"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_26"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_17"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_12"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_24"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#memposting"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Kategori_13"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_40"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_42"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_12"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#topik_debat_6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gendre"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#balasan_tanggapan_5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_9"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#admin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#polling_36"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#admin_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#artikel_3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_2"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#melihat"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#judul"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kategori_5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#user_20"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tanggapan_38"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#admin"/>
+        <Class IRI="#person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#user"/>
+        <Class IRI="#person"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#admin_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#admin_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#admin"/>
+        <NamedIndividual IRI="#admin_3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#admin"/>
+        <NamedIndividual IRI="#admin_4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#artikel"/>
+        <NamedIndividual IRI="#artikel_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#artikel"/>
+        <NamedIndividual IRI="#artikel_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#artikel"/>
+        <NamedIndividual IRI="#artikel_3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#artikel"/>
+        <NamedIndividual IRI="#artikel_4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#artikel"/>
+        <NamedIndividual IRI="#artikel_5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#artikel"/>
+        <NamedIndividual IRI="#artikel_6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#artikel"/>
+        <NamedIndividual IRI="#artikel_7"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#balasan_tanggapan"/>
+        <NamedIndividual IRI="#balasan_tanggapan_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#balasan_tanggapan"/>
+        <NamedIndividual IRI="#balasan_tanggapan_3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#balasan_tanggapan"/>
+        <NamedIndividual IRI="#balasan_tanggapan_4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#balasan_tanggapan"/>
+        <NamedIndividual IRI="#balasan_tanggapan_5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#balasan_tanggapan"/>
+        <NamedIndividual IRI="#balasan_tanggapan_6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#balasan_tanggapan"/>
+        <NamedIndividual IRI="#balasan_tanggapan_7"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#film"/>
+        <NamedIndividual IRI="#film_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#film"/>
+        <NamedIndividual IRI="#film_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#gendre"/>
+        <NamedIndividual IRI="#genre_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#gendre"/>
+        <NamedIndividual IRI="#genre_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#katalog"/>
+        <NamedIndividual IRI="#katalog_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_10"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_11"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_12"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_13"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_14"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_15"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_16"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_7"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_8"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#polling"/>
+        <NamedIndividual IRI="#polling_9"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#resensi"/>
+        <NamedIndividual IRI="#resensi_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#resensi"/>
+        <NamedIndividual IRI="#resensi_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_10"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_11"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_12"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_13"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_14"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_15"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_16"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_17"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_18"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_19"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_20"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_21"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_22"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_23"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_7"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_8"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#tanggapan"/>
+        <NamedIndividual IRI="#tanggapan_9"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#topik_debat"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#topik_debat"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#topik_debat"/>
+        <NamedIndividual IRI="#topik_debat_3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#topik_debat"/>
+        <NamedIndividual IRI="#topik_debat_4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#topik_debat"/>
+        <NamedIndividual IRI="#topik_debat_5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#topik_debat"/>
+        <NamedIndividual IRI="#topik_debat_6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#trailer"/>
+        <NamedIndividual IRI="#trailer_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_10"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_11"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_12"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_13"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_14"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_15"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_16"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_17"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_18"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_19"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_20"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_21"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_22"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_23"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_24"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_25"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_7"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_8"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#person"/>
+        <NamedIndividual IRI="#user_9"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_1"/>
+        <NamedIndividual IRI="#artikel_6"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_1"/>
+        <NamedIndividual IRI="#artikel_7"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_1"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_1"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_2"/>
+        <NamedIndividual IRI="#artikel_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_2"/>
+        <NamedIndividual IRI="#katalog_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_3"/>
+        <NamedIndividual IRI="#artikel_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_3"/>
+        <NamedIndividual IRI="#artikel_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_4"/>
+        <NamedIndividual IRI="#artikel_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memposting"/>
+        <NamedIndividual IRI="#admin_4"/>
+        <NamedIndividual IRI="#artikel_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <NamedIndividual IRI="#kategori_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <NamedIndividual IRI="#tanggapan_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <NamedIndividual IRI="#tanggapan_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <NamedIndividual IRI="#tanggapan_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <NamedIndividual IRI="#tanggapan_6"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <NamedIndividual IRI="#tanggapan_7"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <NamedIndividual IRI="#tanggapan_8"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <NamedIndividual IRI="#tanggapan_9"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_2"/>
+        <NamedIndividual IRI="#kategori_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_3"/>
+        <NamedIndividual IRI="#kategori_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_4"/>
+        <NamedIndividual IRI="#kategori_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_5"/>
+        <NamedIndividual IRI="#kategori_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_6"/>
+        <NamedIndividual IRI="#kategori_6"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#artikel_7"/>
+        <NamedIndividual IRI="#kategori_7"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#film_1"/>
+        <NamedIndividual IRI="#genre_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#film_1"/>
+        <NamedIndividual IRI="#trailer_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#film_2"/>
+        <NamedIndividual IRI="#genre_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#katalog_1"/>
+        <NamedIndividual IRI="#film_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#katalog_1"/>
+        <NamedIndividual IRI="#film_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#katalog_1"/>
+        <NamedIndividual IRI="#genre_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#katalog_1"/>
+        <NamedIndividual IRI="#genre_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_1"/>
+        <NamedIndividual IRI="#tanggapan_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_10"/>
+        <NamedIndividual IRI="#tanggapan_20"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_11"/>
+        <NamedIndividual IRI="#tanggapan_21"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_12"/>
+        <NamedIndividual IRI="#tanggapan_22"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_13"/>
+        <NamedIndividual IRI="#tanggapan_23"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_14"/>
+        <NamedIndividual IRI="#tanggapan_19"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_15"/>
+        <NamedIndividual IRI="#tanggapan_18"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_16"/>
+        <NamedIndividual IRI="#tanggapan_24"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_17"/>
+        <NamedIndividual IRI="#tanggapan_25"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_18"/>
+        <NamedIndividual IRI="#tanggapan_26"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_19"/>
+        <NamedIndividual IRI="#tanggapan_27"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_2"/>
+        <NamedIndividual IRI="#tanggapan_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_20"/>
+        <NamedIndividual IRI="#tanggapan_28"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_21"/>
+        <NamedIndividual IRI="#tanggapan_29"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_22"/>
+        <NamedIndividual IRI="#tanggapan_30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_23"/>
+        <NamedIndividual IRI="#tanggapan_31"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_24"/>
+        <NamedIndividual IRI="#tanggapan_32"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_25"/>
+        <NamedIndividual IRI="#tanggapan_33"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_26"/>
+        <NamedIndividual IRI="#tanggapan_34"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_28"/>
+        <NamedIndividual IRI="#tanggapan_34"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_29"/>
+        <NamedIndividual IRI="#tanggapan_35"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_3"/>
+        <NamedIndividual IRI="#tanggapan_11"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_30"/>
+        <NamedIndividual IRI="#tanggapan_36"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_31"/>
+        <NamedIndividual IRI="#tanggapan_37"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_32"/>
+        <NamedIndividual IRI="#tanggapan_38"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_33"/>
+        <NamedIndividual IRI="#tanggapan_39"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_34"/>
+        <NamedIndividual IRI="#tanggapan_40"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_35"/>
+        <NamedIndividual IRI="#tanggapan_41"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_36"/>
+        <NamedIndividual IRI="#tanggapan_46"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_37"/>
+        <NamedIndividual IRI="#tanggapan_42"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_38"/>
+        <NamedIndividual IRI="#tanggapan_43"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_39"/>
+        <NamedIndividual IRI="#tanggapan_44"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_4"/>
+        <NamedIndividual IRI="#tanggapan_13"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_40"/>
+        <NamedIndividual IRI="#tanggapan_45"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_41"/>
+        <NamedIndividual IRI="#tanggapan_46"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_5"/>
+        <NamedIndividual IRI="#tanggapan_14"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_6"/>
+        <NamedIndividual IRI="#tanggapan_12"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_7"/>
+        <NamedIndividual IRI="#tanggapan_15"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_8"/>
+        <NamedIndividual IRI="#tanggapan_16"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#polling_9"/>
+        <NamedIndividual IRI="#tanggapan_17"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mendapat"/>
+        <NamedIndividual IRI="#tanggapan_1"/>
+        <NamedIndividual IRI="#balasan_tanggapan_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#tanggapan_2"/>
+        <NamedIndividual IRI="#balasan_tanggapan_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mendapat"/>
+        <NamedIndividual IRI="#tanggapan_6"/>
+        <NamedIndividual IRI="#balasan_tanggapan_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mendapat"/>
+        <NamedIndividual IRI="#tanggapan_7"/>
+        <NamedIndividual IRI="#balasan_tanggapan_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mendapat"/>
+        <NamedIndividual IRI="#tanggapan_9"/>
+        <NamedIndividual IRI="#balasan_tanggapan_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mendapat"/>
+        <NamedIndividual IRI="#tanggapan_9"/>
+        <NamedIndividual IRI="#balasan_tanggapan_6"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mendapat"/>
+        <NamedIndividual IRI="#tanggapan_9"/>
+        <NamedIndividual IRI="#balasan_tanggapan_7"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+        <NamedIndividual IRI="#polling_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+        <NamedIndividual IRI="#polling_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+        <NamedIndividual IRI="#polling_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+        <NamedIndividual IRI="#polling_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+        <NamedIndividual IRI="#polling_6"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+        <NamedIndividual IRI="#polling_7"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <NamedIndividual IRI="#polling_10"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <NamedIndividual IRI="#polling_11"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <NamedIndividual IRI="#polling_12"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <NamedIndividual IRI="#polling_13"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <NamedIndividual IRI="#polling_14"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <NamedIndividual IRI="#polling_15"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <NamedIndividual IRI="#polling_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <NamedIndividual IRI="#polling_8"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#mempunyai"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <NamedIndividual IRI="#polling_9"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_1"/>
+        <NamedIndividual IRI="#polling_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_10"/>
+        <NamedIndividual IRI="#polling_8"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_10"/>
+        <NamedIndividual IRI="#tanggapan_16"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_11"/>
+        <NamedIndividual IRI="#polling_9"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#melihat"/>
+        <NamedIndividual IRI="#user_12"/>
+        <NamedIndividual IRI="#film_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_12"/>
+        <NamedIndividual IRI="#polling_10"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_13"/>
+        <NamedIndividual IRI="#polling_11"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_14"/>
+        <NamedIndividual IRI="#polling_12"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#melihat"/>
+        <NamedIndividual IRI="#user_15"/>
+        <NamedIndividual IRI="#film_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_15"/>
+        <NamedIndividual IRI="#polling_13"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#melihat"/>
+        <NamedIndividual IRI="#user_16"/>
+        <NamedIndividual IRI="#film_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#melihat"/>
+        <NamedIndividual IRI="#user_16"/>
+        <NamedIndividual IRI="#film_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_16"/>
+        <NamedIndividual IRI="#polling_14"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_17"/>
+        <NamedIndividual IRI="#polling_15"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#melihat"/>
+        <NamedIndividual IRI="#user_2"/>
+        <NamedIndividual IRI="#film_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#melihat"/>
+        <NamedIndividual IRI="#user_2"/>
+        <NamedIndividual IRI="#film_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_2"/>
+        <NamedIndividual IRI="#balasan_tanggapan_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_2"/>
+        <NamedIndividual IRI="#balasan_tanggapan_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#melihat"/>
+        <NamedIndividual IRI="#user_21"/>
+        <NamedIndividual IRI="#film_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#melihat"/>
+        <NamedIndividual IRI="#user_3"/>
+        <NamedIndividual IRI="#film_1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_3"/>
+        <NamedIndividual IRI="#polling_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_3"/>
+        <NamedIndividual IRI="#tanggapan_2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_4"/>
+        <NamedIndividual IRI="#tanggapan_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_5"/>
+        <NamedIndividual IRI="#polling_3"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_5"/>
+        <NamedIndividual IRI="#tanggapan_11"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_6"/>
+        <NamedIndividual IRI="#polling_4"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_6"/>
+        <NamedIndividual IRI="#tanggapan_13"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_7"/>
+        <NamedIndividual IRI="#polling_5"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_7"/>
+        <NamedIndividual IRI="#tanggapan_13"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_8"/>
+        <NamedIndividual IRI="#polling_6"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_8"/>
+        <NamedIndividual IRI="#tanggapan_12"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_9"/>
+        <NamedIndividual IRI="#polling_7"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#memberi"/>
+        <NamedIndividual IRI="#user_9"/>
+        <NamedIndividual IRI="#tanggapan_15"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#Kategori_13"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Drama</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Marcel Batara Goempar: &quot;Posesif&quot; Dan Permainan Eksplorasi Ruang</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#artikel_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Malam itu pelataran Kemang Village tidak terlalu ramai. Cuma ada pertunjukan live music yang membawakan lagu-lagu Top 40s. Saya mencari-cari Marcel Batara, Director of Photography film Posesif. Sempat waswas lantaran ponselnya sempat tidak bisa dihubungi. Untung tidak makan waktu lama untuk menemukan Marcel, yang ditemani istrinya beserta anjing French Bulldog bernama Boxer. &quot;Makan dulu kali ye.&quot; ujarnya sambil membolak-balik menu.
+
+Sore sebelumnya, Marcel menemani sang istri menonton film Posesif. Dia juga menanyakan pendapat saya tentang filmnya, &quot;gimana menurut lo?&quot; sambil terkekeh ramah, sementara Boxer menatap saya tajam dari bawah meja.
+
+Posesif menceritakan dunia remaja yang gelap, tegang, serta terpisah dari dunia orang dewasa. Eksplorasi relasi antar individu belia yang jujur tanpa pretensi. Sinematografi film ini berbeda dari film-film remaja lainnya, di sini dunia remaja bukan gambar cerah berwarna-warni mencolok yang menyarankan keceriaan dan semacam kenaifan melainkan berwarna cenderung realistis dan berkesan kontemplatif.
+
+Bagaimana Marcel terlibat dalam film ini? Bagaimana ia mengejawantahkan premis tersebut ke dalam bahasa sinema? Seperti apa proses kreatif yang dilewatinya bersama kru lain?
+
+ 
+
+Boleh diceritakan awal keterlibatan kamu di film Posesif?
+
+
+Awalnya gue ditelepon sama Zaidy (produser Posesif) dan dia ngajak untuk gabung. Katanya sih Edwin (sutradara Posesif) sendiri yang milih gue [tertawa]. Gue juga nggak tahu kenapa. Jadilah gue sama Edwin ketemuan di Kinosaurus buat ngobrolin film ini. Awalnya dia minta gue baca naskahnya, pelajari dulu, terus gue tanya balik apa pendekatan yang dia pakai sebagai sutradara, terus... ya udah, gabung deh.
+
+Gue juga nggak gitu ngerti kenapa Edwin milih gue. Tahun lalu gue sempet ketemu Edwin di acara Berlinale Talent Campus. Di acara itupun kami cuma ngobrol-ngobrol biasa aja, nggak ngomongin proyek atau apalah.
+
+ 
+
+Ini kolaborasi pertama dong, ya?
+
+Iya ini pertama kalinya kerja bareng Edwin.
+
+ 
+
+Bagaimana saat pertama kali kamu membaca naskahnya? Proses kreatif seperti apa yang kamu pikirkan waktu itu?
+
+
+Pertama kali baca naskah Posesif, jujur aja ya, gue ngerasa ini film ecek-ecek banget [tertawa]. Terkesan sangat remaja. Untungnya Edwin dan Zaidy selalu ngasih referensi ke kehidupan pribadi gue, jadinya gue curhat banget dari A sampai Z, apalagi karena masa-masa SMA yang punya pengaruh besar buat gue.
+
+Tapi gue juga lihat potensi di naskah ini. Satu yang menarik dan gue coba untuk jabarkan adalah perihal &quot;ruang&quot;. &quot;Ruang&quot; masing-masing karakter yang masih terbuka untuk dieksplorasi bareng Edwin. Misalnya, &quot;Di mana mereka ketemu?&quot;. Oke mereka ketemu di sekolah. Setelahnya di mana? Di rumah? &quot;Rumah&quot; mereka itu seperti apa? Sama halnya dengan &quot;di mana mereka pacaran?&quot;, &quot;di mana mereka berantem?&quot;. Hal-hal kayak gini yang kami bedah bareng. Sampai di titik &quot;ke mana mereka kabur?&quot;. Gue bilang ke Edwin kalau ruang yang terakhir ini harus bisa keluar sepenuhnya dari zona mereka, harus kontras dengan penggambaran zona-zona &apos;nyaman&apos; mereka sebelumnya. Edwin senang dengan pilihan-pilihan ruang yang gue tawarkan. Mungkin karena pengalaman pribadi gue yang pernah kabur sama cewek gue dulu [tertawa].
+
+Ada juga beberapa ruang yang gue paksakan sesuai maunya gue, seperti rumahnya Yudhis yang gede dan kosong. Gue nggak mau rumah Yudhis dan Lala terkesan sama. Kan nggak sedikit tuh film yang rumah karakter-karakternya terkesan sama? Nah, gue coba untuk dapetin perbedaan-perbedaan itu. Sama kayak rumahnya Lala. Gue mikir &quot;gimana sih rumah yang isinya bapak sama anak perempuan tunggal?&quot;. Gue interpretasikan bokapnya Lala sebagai orang yang praktis. Rumah mereka sederhana dan apa adanya saja. Lalu spot Lala nangis di ruang medali. Gue coba gambarkan ruang yang jadi semacam sanctuary buat penghuninya.
+
+Terus di diskotik. Tadinya tuh didekor lampu-lampu aneh gitu [tertawa], gue minta lepas karena malah nggak berasa atmosfer diskotiknya, akhirnya diganti lampu tembak aja. Edwin juga ngasih referensi film The Neon Demon (2016) untuk lighting. Di adegan itu juga harusnya ada dialog. Tapi lagi-lagi, Edwin cukup intuitif untuk bermain di gestur dan ekspresi aja. Akhirnya kami coba memaksimalkan aspek-aspek itu (tata lampu, suara, ekspresi, dan gestur pemain) ketimbang memaksakan dialognya harus ada. Jangan-jangan adegannya malah berantakan kalau ada dialog?! Untungnya para pemain bisa get along dengan ruang-ruang yang kami tawarkan.
+
+ 
+
+Apa yang krusial dari penggalian ruang, zona tiap-tiap karakter?
+
+
+Pendekatannya. Gue harus siasati atmosfer ruang yang mendukung adegan dan representatif untuk masing-masing karakter tentunya. Ini kan film roman remaja sederhana, kalau pendekatan ruang dan atmosfernya dibuat berlebihan, nantinya akan terlihat maksa dan malah nggak dapet feel-nya. Sayang banget kalau begitu.
+
+ 
+
+Teknisnya sendiri bagaimana? Untuk menyiasati konsep ruang tadi, peralatan apa saja yang kamu pakai, ada eksplorasi juga untuk hal ini? Lalu apa yang mendasari pemilihan teknis kamu saat proses syuting?
+
+
+Personally, gue sangat mementingkan kualitas. Dan itulah kenapa gue minta kameranya high-end digital. Kalau nggak salah kami sempet mau pakai Red Scarlet, tapi akhirnya dipinjemin kamera Red Helium. Kebetulan banget nih, blessing in disguise, Edwin juga sudah terbiasa dengan lensa Master Prime kamera itu. Gue maunya sih Leica, ya [tertawa]. Apalagi karena film ini banyak main di malam hari, dan sensitivitas lensa Leica cukup mendukung untuk adegan-adegan dengan pencahayaan minim. Tapi ya... karena mahal, akhirnya pakai Master Prime yang clean. Gue juga sudah terbiasa dengan Master Prime. Beberapa film gue sebelumnya pakai lensa itu. Ukurannya juga cocok buat syuting di dalam mobil, nggak terlalu besar.
+
+ 
+
+Gimana dengan adegan di kolam renang?
+
+
+Nah, pilihannya waktu itu ada dua: Ragunan atau Bandung. Sempet coba shoot di Ragunan, tapi akhirnya kami jalan juga ke lokasi yang di Bandung karena penasaran. Di tempat itu (Bandung), setelah muter-muter nyari posisi, akhirnya kami masuk ke basement yang ternyata ada banyak kaca untuk melihat langsung ke dalam kolam renang. Jadi lo bisa lihat yang lagi pada berenang. Bisa banget diakalin buat nambah varian shot [tertawa].
+
+Tadinya Edwin mau pakai kamera underwater, tapi menurut gue sayang sih. Daripada dipaksain pakai kamera underwater dan kualitas gambarnya jadi turun, kenapa nggak manfaatin kaca-kaca ini aja? Gue pikir keberadaan kaca-kaca ini malah enak buat eksplorasi shot.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#artikel_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Sinema: ”Magic Indonesia”</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#artikel_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Hanya dalam waktu tiga bulan, film-film Indonesia tersebar di berbagai festival film dunia. Jangan heran beberapa pengamat film dunia melontarkan pujian lewat surat elektronik (e-mail) kepada saya. Sebut saja, Festival Fukuoka, Jepang, yang mengambil tema ”Magic Indonesia”, memutar film dari beragam generasi: Cahaya dari Timur, Cagar Mata, Another Trip To The Moon, Pendekar Tongkat Emas, Postcard from the Zoo, Petualangan Sherina, Kuldesak, hingga Opera Jawa. Atau Tokyo Film Festival yang menayangkan Hilal hingga Tjokroaminoto. Sementara Busan Film Festival memutar Aach Aku Jatuh Cinta hingga A Copy of My Mind yang juga diputar di Venezia, di wilayah Amerika dan Kanada. Film Siti ditayangkan di Telluride dan film pendek Following Diana di Toronto Film Festival.
+
+Catatan di atas menunjukkan dua aspek penting sinema Indonesia, yakni beranak pinaknya generasi film Indonesia dan keberagaman dalam tema dan gaya. Ironisnya, justru pertanyaan klise muncul dari sebagian pelaku film Indonesia: Apa gunanya masuk berbagai festival, tetapi kehilangan penonton di Indonesia?
+
+Sesungguhnya untuk menjawab pertanyaan di atas, cara termudah adalah mengamati program yang terkandung pada beragam festival dunia: terbaca tiga pilar program utama dalam sebuah festival, yakni program kompetisi, program pemasaran film, dan program retrospeksi. Dengan kata lain, sesungguhnya setiap festival memberi kelangsungan daya hidup kebudayaan yang kompetitif alias alternatif lewat program kompetisi atau program khusus film alternatif, tetapi juga kebudayaan komersial yang serba massa dan kebudayaan heritage. Tiga perspektif kebudayaan ini sesungguhnya merepresentasikan nilai keutamaan sebuah peradaban. Ketiganya saling menghidupi dan mengisi, mundurnya satu pilar akan memundurkan daya hidup yang lain. Pada aspek ini, harus dipuji bertumbuhnya strategi budaya Kementerian Pendidikan dan Kebudayaan yang terbaca lewat dukungan pada penyebaran film dan pengiriman para kreator ke berbagai jenis festival dunia.
+
+Artinya, sangatlah wajar jika film pada kebudayaan kompetitif dan alternatif sering kali hanya ditonton sedikit penonton dengan kualitas tertentu. Namun, harus dicatat, kebudayaan kompetitif mengandung penemuan baru, terobosan, dan gugatan ketika film komersial alias market mengalami kejenuhan. Simak film Quentin Tarantino, cara tutur alternatifnya kemudian banyak diadaptasi oleh film populer. Demikian juga film-film heritage memberi sumber untuk selalu diaktualisasi oleh kebudayaan film populer. Atau simak produk budaya lain, industri batik tidak akan bertumbuh tanpa adaptasi dari kepeloporan para empu batik dan penemu-penemu motif baru.
+
+Hal ini menunjukkan, sekiranya negeri ini hanya dihidupkan oleh kebudayaan populer tanpa daya hidup budaya kompetitif, alternatif, dan heritage, daya hidup kebudayaan populer akan tergilas waktu jenuh industri yang semakin cepat, menjadikan daya hidupnya pendek, serba krisis, dan kehilangan pegangan pertumbuhan akibat kehilangan sumber terobosan dan aktualisasi.
+
+Oleh karena itu, saatnya sinema Indonesia tidak lagi bertanya: kenapa film-film berkualitas tidak cukup laku, tetapi yang harus dilakukan adalah membangun strategi budaya film Indonesia menghidupkan tiga pilar budaya film, baik alternatif, komersial, maupun heritage.
+
+Agaknya, tersebarnya film-film Indonesia di sejumlah festival menjadi semacam gugatan pada kultur serba tunggal dari bangsa ini, yakni komersial dan massa yang menjadikannya kehilangan standar profesionalisme.
+
+Sumber: Kompas, Minggu 11 Oktober 2015, halaman 12.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#artikel_3"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Kaleidoskop 2017: Mengukur detak jantung industri film Indonesia</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#artikel_3"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Pemutakhiran isi, 18 Februari 2018, 15:09.
+
+Terdapat beberapa hal menarik dari perjalanan film Indonesia sepanjang 2017. Pada beberapa indikator seperti jumlah layar dan penonton menunjukkan adanya pertumbuhan. Dari segi jumlah film beredar, terdapat penurunan dibandingkan dengan tahun 2016 tetapi dalam jumlah yang tidak signifikan. Bahkan bila dilihat dari pembagian perolehan penonton, berkurangnya jumlah film beredar di tahun 2017 juga dapat dipandang positif.
+
+Di tahun 2017 beredar 121 judul film panjang (di atas 60 menit) terdiri atas 5 dokumenter dan 116 fiksi. Terdapat 4 judul film yang tidak tayang di bioskop konvensional berjaringan dan non jaringan. Empat judul tersebut, tiga film dokumenter nominator Festival Film Indonesia dan satu film fiksi (Sekala Niskala) yang baru tayang perdana di ajang festival film dan akan beredar di bioskop konvensional berjaringan di 2018. Lima judul tersebut lebih kecil dibandingkan sembilan judul di 2016.
+
+Penayangan film di bioskop konvensional berjaringan dan non jaringan (selanjutnya akan disebut sebagai bioskop konvensional) merupakan salah satu ukuran untuk melihat dampak ekonomi dalam melihat perkembangan industri film Indonesia. Dari bioskop konvensional tersebut kita dapat melihat persebaran bioskop secara geografis, jumlah layar, perkembangan harga tiket, dan juga tentunya jumlah penonton. Selain bioskop konvensional, terdapat juga bioskop alternatif berupa ruang-ruang tonton bersama yang menggunakan mekanisme donasi dan bukan menerapkan harga tiket masuk (HTM) bagi penontonnya. Bioskop alternatif pada dasarnya beroperasi seperti halnya bioskop konvensional dengan skala lebih kecil, dilihat dari kapasitas penonton dan kapasitas penayangan setiap harinya, namun memiliki orientasi budaya untuk menumbuhkan budaya sinema. Hal yang tidak menjadi fokus dalam tulisan ini.
+
+Berbeda dengan bioskop alternatif, penyebutan konvensional pada bioskop jaringan dan non jaringan yang menerapkan HTM bagi penontonnya merupakan bentuk pelabelan untuk menunjukkan berkembangnya fenomena penayangan streaming berbayar film Indonesia. Paling tidak, sepanjang  2016 terdapat enam kanal streaming film beroperasi resmi di Indonesia, baik yang diakses lewat aplikasi mobile maupun situs web. Bila sebelum tahun 2016, kanal streaming hanya ditempatkan di lapisan kedua atau ketiga dalam alur distribusi film seperti halnya televisi atau home video, maka saat ini tidak lagi. Netflix dan Amazon gencar melakukan akusisi di festival-festival film juga turut memproduksi film. Netflix fokus pada penyediaan konten di platform-nya dan mengabaikan bentuk distribusi tradisional, sementara Amazon melakukan kolaborasi dengan jaringan bioskop. Arena bermain industri film sedang berubah.
+
+Namun demikian, tulisan ini ditujukan untuk membaca bentuk keragaman konten film Indonesia di 2017 dan bukan perkembangan dan perubahan industri film secara global. Paparan tentang bioskop alternatif dan juga masuknya platform streaming berbayar untuk menonton film merupakan konteks yang sedang dan akan dihadapi oleh industri film Indonesia. Membaca keragaman konten film Indonesia menjadi penting dan relevan ketika ditempatkan dalam konteks tersebut.
+
+Keragaman konten, tuntutan pertumbuhan dan keberlangsungan hidup industri film
+
+Industri film membutuhkan keragaman konten, baik dari segi genre, bentuk, gaya, tema, narasi, dan berbagai hal yang dimungkinkan terwujud dalam film, termasuk sasaran usia penonton. Terkadang, keragaman konten juga mencerminkan adanya pertarungan gagasan. Secara alamiah, keragaman konten dalam industri film ditujukan untuk meraih penonton yang karakteristiknya berbeda-beda. Sayangnya, belum banyak analisis tentang karakteristik penonton film di Indonesia serta kajian-kajian industri film lainnya. Sementara, pelaku industri melihat jumlah penonton sebagai satu-satunya tolok ukur keberhasilan sebuah film. Banyaknya hal yang dipertaruhkan membuat sulit bagi pelaku industri film beranjak dari zona amannya.
+
+Sebuah fenomena umum ketika keberhasilan berulang dari sebuah film dipandang sebagai formula untuk mencoba mengulangi kesuksesan. Di periode 2009-2011, jumlah film Indonesia dengan tema horor dengan kombinasi komedi dan konten sensual meningkat, begitu juga film-film bertema motivasi untuk sukses keluar dari situasi tidak beruntung dan seterusnya. Begitu pula dengan sasaran usia penonton berdasarkan klasifikasi Lembaga Sensor Film, lembaga yang menentukan ijin penayangan film di bioskop konvensional. Hingga 2017, jumlah film berdasarkan baik genre maupun klasifikasi usia penonton tidak banyak berubah dibandingkan tahun-tahun sebelumnya.
+
+Walaupun demikian, situasi di atas tetap bisa dipandang positif bagi industri film sepanjang tetap menunjukkan keragaman dalam spektrum konten yang serupa. Paling tidak, hal tersebutlah yang dapat kita lihat di tahun 2017 yang menunjukkan hal-hal menarik dalam hal keragaman konten.  
+
+Dengan 116 judul film di 2017 (turun dari 124 judul di 2016), keragaman film berdasarkan klasifikasi usia penonton dan genre menunjukkan perbedaan yang tidak signifikan dibandingkan dengan 2016. Namun demikian, bila dilihat dari total jumlah penonton atas film Indonesia yang tayang perdana di 2017 mengalami kenaikan 14%, dari 37.227.428 di 2016 menjadi 42.387.627 penonton.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#artikel_4"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">JAFF ke10: Tiga Film Indonesia Raih Penghargaan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#artikel_4"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Tiga film Indonesia meraih penghargaan dalam Jogja Netpac Asian Film Festival (JAFF) ke10 yang berakhir 6 Desember 2015 malam di Taman Budaya Yogyakarta, meskipun penghargaan tertinggi festival (Golden Hanoman Award) jatuh pada film dokumenter Cambodian Son karya Masahiro Sugano (produksi Kamboja, AS, Perancis dan Inggris). Penghargaan Silver Award diraih oleh Swap karya Remton Siega Zuasola dari Filipina.
+
+Ketiga film Indonesia peraih penghargaan itu adalah Nay karya Djenar Maesa Ayu, The Fox Exploits The Tiger&apos;s Might karya Lucky Kuswandi, dan A Copy Of My Mind karya Joko Anwar. Masing-masing memperoleh Netpac Award, Jogja Student Film Award, dan Geber Award.
+
+Satu pemenang lain (dari enam penghargaan yang disediakan) adalah The Incredibly Strange Tale Of The Man Who Lost His Love Bought It Back With A Packet Of Duck Rice karya Gavin Yap dari Malaysia. Penghargaannya diperoleh dari kategori Light of Asia.
+
+Menurut keterangan panitya, Golden  Hanoman Award adalah penghargaan pada film Asia terbaik pertama melalui penjurian kategori Asian Feature. Sedang Silver Award merupakan penghargaan pada film Asia terbaik kedua untuk Asian Feature.
+
+Penghargaan lainnya:
+
+Netpac Award: diberikan oleh Network for the Promotion of Asian Cinema (NETPAC), sebuah organisasi promosi film Asia.
+Geber Award: penghargaan film Asia terbaik diberikan oleh komunitas film dari berbagai kota di Indonesia.
+Blencong Award: diberikan juri untuk film pendek Asia terbaik dari Program Light of Asia.
+Jogja Student Film Award: penghargaan dari Jogja Film Academy bekerjasama dengan ISI Media Rekam Yogyakarta, MMTC, AMIKOM, AKINDO, dan AKRB. Pemenang dipilih oleh murid sekolah film Yogyakarta.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#artikel_5"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">FFD 14: Tanah Mama Terbaik</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#artikel_5"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Tanah Mama produksi Kalyana Shira Foundation dan film pertama sutradara Asrida Elisabet meraih penghargaan terbaik untuk kategori film dokumenter panjang dalam Festival Film Dokumenter yang berlangsung 7-12 Desember 2015 di gedung Societet Taman Budaya Yogya,  IFI-LIP, dan Tembi Rumah Budaya, Yogya.
+
+Tiga juri kategori film dokumenter panjang, Debra Zimmerman (Women Make Movies), JB Kristanto (filmindonesia.or.id), dan Ronny Agustinus (Marjin Kiri), mencatat bahwa Tanah Mama. memiliki kompleksitas masalah sosial-ekonomi dan adat yang dimunculkan sedikit demi sedikit hingga pada ujungnya penonton bisa mendapat gambaran cukup utuh dan menyentuh.
+
+Untuk kategori film dokumenter pendek, film Wasis terpilih sebagai film terbaik oleh dewan juri yang terdiri dari Chalida Uabumrungjit (Thai Film Archive), Adrian Jonathan (Cinema Poetica), dan Ifa Isfansyah (sutradara). Film ini memunculkan dialog antardua generasi yang terpisah zaman dan rezim, dan dengan berani membawa subjeknya ke publik yang tidak lagi mengenal nilai-nilai yang dipercayai si subjek. Pertemuan ini tertangkap dan terangkai dengan apik dalam film.
+
+Dalam kategori dokumenter pelajar, dewan juri Park Hye-mi (DMZ Doc), BW Purbanegara (sutradara), St Kartono (Akademisi) memilih Korban Bendung Manganti sebagai film terbaik. Film ini memunculkan unsur politis dalam perspektif yang menarik. Potret ketidakadilan tidak melulu digunakan untuk mengeksploitasi korban sebagai korban, tetapi juga menampakkan optimisme lewat subjek yang mampu melihat peluang untuk tetap hidup. Keseluruhannya didukung dengan visual yang kuat yang memudahkan penikmat film dalam mencerna film ini.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#artikel_6"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Unggulan FFI 2015</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#artikel_6"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Pengumuman unggulan Festival Film Indonesia 2015 dilakukan di Lamoda Cafe, Plaza Indonesia, Kamis malam (12/11). Malam penganugerahan akan dilaksanakan pada 23 November di Indonesia Convention Exhibition, Banten. Hasil lengkap unggulan:
+
+Film Pendek 
+
+1. Kilau Kerikil (Tripod Production)
+
+2. Natalan (Kebon Studio)
+
+3. Semalam Anak Kita Pulang (Fourcolours Films)
+
+4. Simbiosis (Neofreak &amp; Manguni Pictures)
+
+5. The Fox Exploits The Tigers Might (Babibuta Film)
+
+ 
+
+Film Animasi 
+
+1. Djakarta 00 (Galang E Larope)
+
+2. GWK (Alam Sutera)
+
+3. Kapur Ade (Lanting Animation)
+
+4. Parte (Pe-Mamam Production)
+
+5. Tendangan Halilintar (MD Animation)
+
+ 
+
+Film Dokumenter Panjang
+
+1. Segalanya Demi Kehamilanku (Suprie Van Jaya)
+
+2. Mendadak Caleg (M-Docs)
+
+3. Elegi di Negeri Oepoli (Kompas TV)
+
+ 
+
+Film Dokumenter Pendek 
+
+1. Nostalgia Senja (Fakultas Film &amp; Televisi Institut Kesenian Jakarta)
+
+2. Salam dari Anak-anak Tergenang (Satu Lensa)
+
+3. Pejuang dari Gua Purbakala (Eagle Institute Indonesia)
+
+4. Tino Sidin Sang Guru Gambar (Fakuktas Film &amp; Televisi Institut Kesenian Jakarta)
+
+5. SDR (Sekolah Pasca IKJ)
+
+ 
+
+Film Televisi
+
+1. Hati-hati dengan Hati (SCTV)
+
+2. Ibu Tak Bisa Lagi Mendengar Tangismu (SCTV)
+
+3. Malu Itu Perlu (SCTV)
+
+4. Nyanyian Musim Hujan (Miles Film)
+
+5. Takjil Bu Syafi’i (Sinemart Indonesia)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#artikel_7"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">FFI 2015: Siti Film Terbaik</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#artikel_7"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Siti, film yang tidak direncanakan untuk beredar di bioskop meraih penghargaan Film Terbaik dalam Festival Film Indonesia 2015. Film yang mengisahkan tentang perjuangan seorang ibu muda bernama Siti dalam menghidupi keluarganya ini mendapatkan Piala Citra yang diberikan langsung oleh Menteri Pendidikan dan Kebudayaan Anies Baswedan. Selain penghargaan film terbaik, Siti juga mendapatkan dua penghargaan lain, yaitu Penulis Skenario Terbaik untuk Eddie Cahyono dan Penata Musik Terbaik untuk Krisna Purna.
+
+Selain Siti, Film A Copy of My Mind dan Guru Bangsa Tjokroaminoto masing-masing juga mendapat tiga penghargaan Piala Citra. Film A Copy of My Mind karya Joko Anwar mendapatkan penghargaan Sutradara Terbaik (Joko Anwar), Penata Suara Terbaik (Khikmawan Sentosa, Yusuf A Patawari), dan Pemeran Utama Wanita Terbaik (Tara Basro). Sedangkan untuk Guru Bangsa Tjokroaminoto karya Garin Nugroho mendapatkan Pengarah Sinematografi Terbaik (Ipung Rachmat Syaiful), Pengarah Artistik Terbaik (Allan Bastian), dan perancang busana terbaik (Retno Ratih Damayanti).
+
+Pada acara puncak FFI 2015 yang diselenggarakan di Indonesia Convention Expo, Banten Senin malam (23/11), juga diserahkan Lifetime Achievement Awards kepada George Kamarullah. Sepanjang karirnya, beliau berhasil memborong enam piala citra, yaitu untuk film Ranjang Pengantin (FFI 1975), Usia 18 (FFI 1981), Di Balik Kelambu (FFI 1983), Ponirah Terpidana (FFI 1984), Doea Tanda Mata (FFI 1985), Ibunda (FFI 1986) dan Tjoet Nja Dhien (FFI 1988). George Kamarullah juga berhasil mendapatkan penghargaan fotografi terbaik dalam Asia Pasific Film Festival tahun 1986 untuk film Doea Tanda Mata karya Teguh Karya.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#balasan_tanggapan_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">apa fakta pendukung dari tanggapan anda ?</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#balasan_tanggapan_3"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">apakah anda yakin ? film nya bagus kok</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#balasan_tanggapan_4"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">samaaaaaa! aku juga ngefans banget!</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#balasan_tanggapan_5"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">sumpah filmnya keren banget, recomended banget, pokoknya harus nonton. jangan sampe ketinggalan yaaaaa!</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#balasan_tanggapan_6"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">keren banget Marcel main film nya</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#balasan_tanggapan_7"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">i love you Marcel, see you</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#film_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Malin Kundang</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#film_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Legenda Batu Terbelah</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#genre_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Legenda</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#genre_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Romantis</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Olahraga</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_10"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">science fiction</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_11"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">kejahatan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_12"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Misteri</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_14"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Biography</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_15"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">kartun</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Horror</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_3"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Sejarah</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_4"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">action</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_5"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Romance</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_6"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Komedi</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_7"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">animasi</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_8"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Musical</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#kategori_9"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Fantasy</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_10"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_11"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_12"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_13"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_14"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_15"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_16"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_17"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_18"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_19"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_20"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_21"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_22"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_23"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_24"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_25"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_26"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_27"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_28"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_29"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_3"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_30"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_31"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_32"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_34"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_35"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_36"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_37"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_38"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_39"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_4"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_40"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isi"/>
+        <NamedIndividual IRI="#polling_41"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_5"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_6"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_7"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_8"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#polling_9"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tidak setuju</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#resensi_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">A Fistful of Locke : Delusi Orisinalitas Dalam Nay</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#resensi_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Kaca mobil adalah metafora untuk layar bioskop. Dari dalam mobil, dunia yang kita lihat tidak lagi jadi utuh, namun terpigura oleh kaca-kaca mobil itu seperti dunia yang kita lihat di sebuah bioskop—terpigura oleh frames pilihan si sutradara. Apalagi jika mobil itu bergerak, kaca-kacanya menjadi metafora yang makin sempurna lagi untuk pengalaman menonton sebuah film, karena bisa disandingkan dengan imaji frames dalam sebuah rol film yang bergerak cepat di dalam proyektornya.
+
+Dalam Nay, film panjang ketiga Djenar Maesa Ayu setelah Mereka Bilang, Saya Monyet! dan Saia, konsep ini dibalik, penonton bukan berada di dalam mobil, namun di luar mobil. Selama hampir keseluruhan 80 menit film ini, penonton hanya disuguhi sosok Nay ngobrol di telepon di dalam mobil dengan berbagai karakter lain yang tidak pernah kelihatan sosoknya. Di akhir film, kita jadi mengerti banyak tentang dilema-dilema kehidupan yang dihadapi Nay sekarang, sejarah hidupnya, dan bagaimana sejarah itu mempengaruhi keputusan-keputusan moral yang harus dia ambil—sambil nyetir.
+
+Djenar bukan orang pertama yang membuat film dengan gimmick seperti ini. Locke (juga nama karakter utamanya, seperti Nay), film Inggris rilisan 2013 yang disutradarai Steven Knight, juga menampilkan satu tokoh saja dan di sepanjang film si tokoh juga harus mengambil keputusan-keputusan yang akan mengubah jalan hidupnya—juga sambil nyetir.
+
+Kemiripan Nay dan Locke tidak berhenti di gimmick. Cerita kedua film ini pun jika disarikan dalam sebuah treatment akan jadi kurang lebih sama: seorang bayi akan dilahirkan di dunia ini. Salah satu orangtuanya dipaksa untuk memilih, apakah akan membiarkan bayi ini lahir dan mengubah hidup yang mereka jalani sekarang, atau, apakah lebih baik mementingkan karir, yang jadi simbol status quo kehidupan mereka saat ini? Sementara, sejarah hidup mereka seperti mewanti-wanti agar mereka menjadi orangtua yang lebih baik daripada orangtua mereka yang dulu membawa mereka ke dunia namun kemudian menelantarkan mereka. Tapi, “lebih baik” itu seperti apa?
+
+Dan kemudian, kemiripan pun berlanjut di detil-detil kedua film ini, baik di segi plot, dialog, maupun visual.
+
+ 
+
+Djenar dan masalah kejiwaan
+
+Selain menelepon, Nay juga berdialog dengan “hantu” ibunya di dalam mobil, tentang bagaimana dia tidak akan mengulang kesalahan-kesalahan ibunya membesarkan dia. Locke pun begitu, selain bercakap-cakap lewat telepon, di dalam mobil dia juga marah-marah kepada “hantu” bapaknya yang melarikan diri dari kewajiban membesarkannya. Locke ingin menunjukkan bahwa dengan menghadiri kelahiran anaknya, dia tidak akan melarikan diri dari tanggung jawab seperti bapaknya. Perbedaan dari kedua adegan yang berulang-ulang di kedua film ini hanyalah bahwa hantu ibu Nay duduk di kursi penumpang depan, sementara hantu bapak Locke duduk di kursi belakang.
+
+Waktu Nay menelepon Ben, pacar yang menghamilinya, tapi ternyata Mama Ben yang menerima teleponnya, Mama Ben menuduh Nay sebagai cewek murahan yang pasti sudah ditiduri siapa saja sehingga belum tentu Ben adalah ayah janin dalam kandungan Nay. Sementara, waktu Locke mengabari istrinya kalau dia sedang dalam mobil menuju ke London untuk menemani perempuan yang dia hamili melahirkan bayinya, si istri menuduh perempuan yang mau meniduri Locke dalam sebuah one night stand pasti mau meniduri siapa saja sehingga belum tentu Locke adalah ayahnya.
+
+Kemudian, Nay dipaksa untuk memilih antara mempertahankan janin dalam kandungannya atau menggugurkannya agar dia bisa mengambil tawaran menjadi bintang sebuah film/video yang mungkin akan membantunya go international, sementara Locke memutuskan untuk meninggalkan momen pengucuran semen terbesar di Eropa yang menjadi tanggung jawab pekerjaannya untuk sebuah bentuk tanggung jawab yang lain: menghadiri kelahiran anak “haram”-nya.
+
+Ditambah lagi dengan shots yang nyaris identik (LCD di dalam mobil yang menampilkan log percakapan telepon, misalnya), dalam hal kemiripan Nay vs. Locke jadi hampir sama kasusnya dengan A Fistful Of Dollars vs. Yojimbo, atau Reservoir Dogs vs. City On Fire—menceritakan kisah sendiri dengan mencontek cerita film orang lain.
+
+Contekan-contekan dari Locke menjadi distraksi yang sangat mengganggu tema besar Nay dan tema kesayangan Djenar selama ini: efek kejiwaan dari sexual dan parental abuse. Dari sejak debutnya sebagai pengarang dalam kumcer Mereka Bilang, Saya Monyet! hingga film panjang terakhirnya sebelum Nay, Saia, Djenar seperti tidak bosan-bosannya menggali tema ini. Mungkin karena dia sering disalahmengerti sebagai pengarang dan sutradara yang hanya mengeksploitasi seks, padahal yang ingin dia lakukan sebenarnya adalah mengeksplorasi efek-efek kejiwaan pada orang-orang yang mengalami kekerasan seksual.
+
+Djenar mungkin salah satu dari sedikit sutradara (dan pengarang) Indonesia yang mengolah tema masalah kejiwaan dengan konsisten dan serius, di tengah-tengah kecenderungan untuk memarjinalkan tema ini menjadi latar belakang sambil lalu karakter-karakter “gila” dalam film-film genre (Sundel Bolong Suzanna sebelum menjadi hantu adalah gadis yang bunuh diri setelah diperkosa). Selain Djenar akhir-akhir ini mungkin hanya Sekar Ayu Asmara yang juga konsisten mengolah tema ini, baik dalam filmnya Belahan Jiwa (2005) maupun dalam novel-novelnya yang sering menampilkan tokoh-tokoh skizofrenik secara simpatik. Salah satu novel itu, Pintu Terlarang, juga sudah diadaptasi dengan setia oleh Joko Anwar menjadi film psycho-thriller-horror-gore yang menawan.
+
+Melakukan pembacaan psikoanalitis terhadap cerpen, novel, dan film Djenar bisa mengungkapkan hal-hal yang mungkin tidak akan terbaca lewat teori-teori lain. Hiperseksualitas tokoh Saya dalam Saia misalnya, bisa dimaknai lebih dalam jika kita tahu bahwa itu adalah salah satu simtom mania pada penderita bipolar disorder, sehingga mungkin salah satu poin Djenar dalam Saia, selain menawarkan komentar teoretis tentang apa itu yang sebenarnya tabu dalam pornografi, adalah sebuah poin yang lebih pragmatis: menyelami dan mengangkat karakteristik penyakit jiwa yang masih sering distigmatisasi di masyarakat sehingga menjadi tabu tersendiri yang tidak pernah dibahas.
+
+Nay sebenarnya bisa menjadi kristalisasi dari tema-tema kejiwaan favorit Djenar di atas. Mengunci Nay sendirian di dalam mobil (bandingkan dengan mengunci Saya bersama Ia di sebuah cottage di Saia), tanpa kemungkinan untuk menampilkan seks itu sendiri (bandingkan dengan Saia yang menampilkan hanya adegan seks hampir sepanjang film), Djenar ironisnya menjadi bebas menggunakan Nay sebagai megafon renungan-renungannya tentang efek-efek psikologis jangka panjang kekerasan mental, fisik, maupun seksual terhadap anak—serta juga kemarahannya terhadap hipokrisi moral masyarakat yang sering justru menganggap gila korban kekerasan tersebut (mereka bilang, saya monyet!), dan bukan pelakunya. Semua ini bisa dia tumpahkan dalam monolog dan percakapan imajiner Nay dengan “hantu” ibunya.
+
+Karakter Nay yang sayangnya diperankan secara klise dan overacting oleh Sha Ine Febriyanti (apakah orang yang lagi pusing selalu harus memukul kepala sendiri?) digambarkan sebagai karakter yang delusional (ngomong dengan ibunya yang tidak kelihatan), mungkin juga bipolar (mood-nya bisa berubah dalam sekejap dari ngamuk ke ketawa-ketawa). Mungkin dengan karakter Nay yang kali ini (nama Nay atau Nayla sudah berungkali muncul dalam cerita-cerita Djenar sejak cerpen Waktu Nayla dalam kumcer pertamanya)—Djenar ingin menunjukkan bahwa justru kadang-kadang orang yang dianggap gila (monyet!) lebih punya sensitivitas terhadap hal-hal yang benar-benar gila dalam masyarakat (kekerasan seksual, misalnya) sehingga merekalah yang mampu membongkar hipokrisi moral yang sering malah menjungkir-balikkan kenyataan tersebut.
+
+ 
+
+Nay kurang meta
+
+Jalur perjalanan mobil Nay yang berputar-putar tak tentu arah dan tak pernah sampai tujuan, jika memang disengaja, bisa saja memperkuat gambaran bahwa Nay menderita delusi yang sudah lumayan akut (jika memang lokasi geografisnya dipilih/diedit secara sengaja, mobil itu pernah melaju dari Sudirman ke Thamrin on the way ke… Kemang!), sekaligus mungkin menjadi metafora bahwa hidup sebenarnya akan berputar-putar begitu saja, bahwa Nay mungkin sekali hanya akan mengulang kesalahan-kesalahan ibunya walaupun ia begitu benci padanya dan bertekad membuktikan dirinya bisa menjadi ibu yang lebih baik.
+
+Jika itu benar, ada dua macam split dalam Nay, di dalam tubuh filmnya sendiri—mengeksplorasi tema khas Djenar sementara pada saat yang sama mencontek habis-habisan struktur film Locke—dan di dalam karakter Nay sendiri: terbelah antara menyerah kepada ekspektasi lingkungan di sekitarnya (lirik soundtrack yang digarap Zeke Khaseli di awal dan akhir film berbunyi, “Ekspektasi, terlalu tinggi…”) untuk menggugurkan kandungan dan mengejar karir, atau melawan pengaruh ibu di dalam hidupnya dengan membuktikan dirinya bisa menjadi ibu yang lebih baik bagi anaknya.
+
+Apakah kedua split ini dimaksudkan untuk merefleksikan satu sama lain, bahwa bukan cuma orang saja yang bisa punya split personality, film pun juga bisa?
+
+Jawabannya tergantung pada apakah di dalam Nay ada bukti-bukti tekstual bahwa contekan-contekan dari Locke itu memang disengaja dan diakui (misalnya, bisa dalam bentuk Nay ngobrol tentang film Locke di telepon) sehingga Nay bisa jadi film yang lebih meta, memberikan komentar sosial sekaligus mengomentari diri sendiri.
+
+Sayangnya, bukti-bukti seperti ini tidak ada. Yang ada hanya pengakuan extratekstual Djenar di Twitter bahwa Locke (dan Taste of Cherry dari Kiarostami menurut klaimnya) memang salah satu sumber inspirasinya. Namun di dalam Nay sendiri tidak ada rekontekstualisasi maupun modifikasi yang cukup (yang ada hanya relokasi dan tempelan tema tambahan) terhadap hal-hal yang dicontek Nay dari Locke.
+
+Hal-hal yang dicontek tadi dengan gampang masih bisa kita kenali sebagai elemen-elemen dari film Locke, belum dimanipulasi menjadi hal yang (terkesan) baru dan orisinil (padahal KW) yang mampu memukau dan mengelabui kita. Sementara, seperti yang bisa kita lihat dalam film-film Tarantino setelah Reservoir Dogs, dan juga bisa kita dengarkan di lagu-lagu pop kekinian dari Daft Punk sampai M.I.A., contekan bisa jadi bagian dari karya yang keren dan orisinil jika dimanipulasi dengan lihai, bukan cuma dikopi begitu saja.
+
+Memang, sekarang adalah zaman “unoriginal genius”. Sampling, reappropriating, reproducing, lifting, mash-ups sudah menjadi metode berkesenian yang sama validnya dengan bertapa menunggu wangsit ilahi kemudian menorehkannya ke atas daun lontar. Namun, yang terjadi di Nay barulah contek-menyontek old skool tanpa usaha lebih lanjut untuk menggubah sesuatu yang baru dari contekannya. Hasil akhirnya belum genius, baru unoriginal.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#resensi_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Realisme Komersil A Copy of My Mind</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#resensi_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Eklektisisme dalam mencari formula “going gaga”
+
+Di awal tahun 2000-an, salah satu kata yang paling sering dipakai anak gaul Jakarta untuk mendefinisikan diri sendiri adalah “eklektik”. Segalanya serba eklektik: set DJ, gaya bermusik, gaya berpakaian, ideologi. Jika masih bingung dengan identitas, panggil saja diri “eklektik.”
+
+Anak gaul Jakarta tak pernah setia dengan patois mereka sendiri, tapi sejak era itu Joko Anwar masih bertahan menjadi salah satu sutradara komersil Indonesia yang paling eklektik dalam soal gaya, paling sering bereksperimen dengan bentuk, genre, bahkan disiplin karyanya: setelah mengawali karirnya di industri film mainstream Indonesia dengan menulis skenario film satir ringan Arisan, Joko kemudian menyutradarai film Woody Allen-lite Janji Joni, film pseudo-noir Kala, film gothic-psycho-thriller Pintu Terlarang, kemudian drama keluarga-gore Modus Anomali. Ia juga sempat menulis skenario lagi untuk film komedi Quickie Express, film drama fiksi., dan adaptasi bebas kitab esek-esek Moammar Emka, Jakarta Undercover, yang ia gubah menjadi film kejar-kejaran dengan judul sama yang mungkin bisa diberi judul alternatif Run Luna Maya Run. Keeklektikan Joko juga melebar ke luar film: bikin musikal off-off-off Broadway Onrop!, serial TV horor fantasi Halfworlds, dan jadi vokalis superband Mantra yang dimotori Stephen Malkmus, eh, Zeke Khaseli.
+
+Keeklektikan, karena ia konsisten menjaganya, mungkin memang sudah jadi identitas Joko. Sebagai anak yang dibesarkan oleh Orba kemudian diberi kesempatan oleh sejarah untuk menikmati gegar kebebasan reformasi ’98, ia sepertinya cukup bahagia cap-cip-cup kembang kuncup memilih berbagai macam bentuk karya untuk mengekspresikan ka-auteur-annya. Selain itu, keeklektikan ini mungkin didasari hasratnya untuk menemukan formula film komersil yang bisa membuat penonton Indonesia “going gaga”.
+
+ 
+
+Joko Anwar vs. @jokoanwar
+
+Dalam hal tema, ada beberapa benang merah yang meyambungkan karya-karya Joko selama ini, salah satunya adalah kritik sosial yang dilancarkan dengan membuat mise-èn-scene yang menggambarkan Indonesia sebagai tempat antah-berantah kelam-mencekam (noir?) di mana satu-satunya hukum yang berlaku adalah hukum rimba, yang wong ciliknya berharap sia-sia akan datangnya seorang Ratu Adil—dan begitu datang ternyata ia seorang Rice Queen (satu lagi benang merah film-film Joko adalah gay subtext yang menjadi kritiknya terhadap moralitas yang kelewat heteronormatif di Indonesia seperti bisa dilihat di Kala; atau dengan menunjukkan skeptisisme terhadap kebahagiaan ala keluarga sakinah mawaddah wassalam khas Indonesia (Pintu Terlarang); atau sekalian mempreskripsikan final solution buat keluarga kelas menengah ngehek macam itu (Modus Anomali).
+
+Selain dalam film dan opera musikal, kritik sosial Joko menemukan outletnya yang paling maksimal di media sosial. Sebagai @jokoanwar, selebtwit dengan pengikut 911 ribu (per 23 Februari 2016), ia gemar melancarkan kritiknya dengan lebih literal. Indoprogress mungkin akan mendefinisikan aliran politik @jokoanwar sebagai “liberal tua”, sehingga tidak mengherankan jika pada pilpres 2014 kemarin ia sempat mejadi relawan konser Salam Dua Jari Jokowi.
+
+Setelah Modus Anomali, yang menunjukkan kemarahan luar biasa terhadap konsep nuclear family dan masyarakat yang mempromosikan konsep tersebut—hingga settingnya pun digubah bukan hanya menjadi tempat berhukum rimba tapi rimba beneran yang memangsa nuclear family tadi!—ada satu pertanyaan penting yang timbul buat Joko: ideologi pursuit of happiness macam apa yang ia tawarkan, yang ia percayai? Kritiknya terhadap konsep kebahagiaan orang lain sudah mencapai titik jenuh—apakah kemudian raison d’être-nya sebagai seorang sutradara? Atau ia lebih nyaman mengkritisi dan menyinyiri semuanya saja? Itu pilihan berkreasi yang sah-sah saja tentu, tapi jika Lenin (dan Godard) benar, bahwa “ethics are the esthetics of the future”, ethics macam apa yang didambakan Joko Anwar si auteur (bukan @jokoanawar si selebtwit) untuk kehidupan berbangsa dan bernegara di NKRI harga nego ini?
+
+ 
+
+Deus ex Maxima
+
+Mungkin Joko sendiri sadar dengan dilema di atas, sehingga A Copy of My Mind menjadi karya pertamanya yang bukan cuma mengolok-ngolok dan mengkritisi moralitas masyarakat Indonesia—terutama materialisme Jakarta yang melumpuhkan—namun juga menawarkan resep untuk mencuri-curi kebahagiaan di antara himpitan poleksosbudhankam kota jahanam ini.
+
+Alek si “pekerja teks DVD bajakan komersil” (apologies to Adrian Jonathan Pasaribu, yang pernah memakai “pekerja teks komersil” sebagai profil Twitternya) dan Sari si mbak-mbak facial adalah potret template kaum lumpenproletariat yang tidak akan pernah berhasil naik kelas sekeras apapun mereka kerja, kerja, kerja. Seorang tante garang makelar koruptor pelanggan facial Sari yang tinggal di sebuah penjara harga bintang lima, rasa bintang lima pun memvonisnya: “Hidupmu itu sama kayak polisi-polisi itu, susaaah!” Sementara itu, Alek yang memilih tidak ber-KTP, tidak ber-SIM, tidak ber-HP—mungkin sebuah usaha agar dirinya tidak menjadi sekedar angka statistik—akhirnya malah dihapus sama sekali dari sejarah Jakarta oleh tangan-tangan hitam dunia politik dagang apel yang panik tertangkap basah.
+
+Namun sebelum nasib akhirnya mengubur harapan-harapan Sari dan Alek, mereka masih sempat menikmati saat-saat nikmat keringetan di kos, menyatu dalam adegan-adegan seks yang saru sekaligus seru, atau sekedar keringetan bangun kesiangan masih pelukan. Bahagia itu sederhana, kata hashtag, dan di momen-momen seperti ini, kita hampir mempercayainya sebagai kebenaran.
+
+Kisah Sari dan Alek dituturkan dalam narasi yang tidak biasa bagi Joko: hampir tidak ada yang terjadi selama hampir tiga perempat film, selain cinta di antara mereka berdua yang tumbuh secepat keping-keping DVD memenuhi dinding kamar kos Alek (proyek Alek yang terhenti karena malas dan baru dilanjutkan setelah Sari berjanji membantunya). Sementara film-film Joko sebelum ini selalu dipenuhi aksi sejak babak pertama.
+
+Seakan-akan Joko sadar bahwa tema filmnya kali ini lain dibandingkan film-filmnya sebelumnya, lebih personal, sehingga memerlukan treatment yang berbeda pula, yang lebih menunjukkan visi personalnya sebagai auteur dan tidak cuma fokus berusaha membuat penonton “going gaga”. Atau mungkin juga keinginan menawarkan resep untuk kebahagiaan ala Joko Anwar, bukan cuma menawarkan sebuah list errata atas konsep kebahagiaan orang lain seperti kebiasaannya sebelum film ini—sebuah langkah di luar kebiasaan—secara natural diikuti dengan rasa penasaran untuk mencoba cara bertutur yang lain. Membiarkan tidak ada yang terjadi dalam filmnya mungkin biasa buat Béla Tarr, tapi luar biasa buat Joko Anwar.
+ 
+
+Sayangnya, sepertinya tidak mudah bagi Joko untuk keluar dari kebiasannya menggunakan bahasa film komersil yang selama ini digunakannya. Mungkin selain ingin penonton merenung setelah nonton A Copy of My Mind, ia juga masih ingin mereka “going gaga”. Tidak cukup tangan-tangan hitam dunia politik merecoki pedekate Sari dan Alek, tangan tuhan pun ikutan. Dalam sebuah insiden deus ex machina yang pasti akan ditolak auteur Dogma (begitu kebetulannya insiden ini, jadi tergoda untuk menyebutnya deus ex Maxima Pictures), kisah cinta Sari dan Alek karya Joko Anwar tiba-tiba banting setir menjadi kritik politik ala @jokoanwar. Adegan-adegan yang unik dan membumi (bercinta sambil nonton bokep gay, ngobrol ngalor-ngidul tentang cita-cita (Sari punya, Alek tak punya), ngobrol tentang jenis-jenis DVD bajakan sebagai metafora kehidupan) digantikan oleh metafora-metafora visual klise tentang negara yang tidak mau menegakkan hukum saat hukum itu rubuh diperkosa kuasa (Sari berjalan dekat polisi di tengah-tengah kampanye pilpres setelah Alek dihilangkan, Sari membayangkan udara Glodok yang panas menjelma menjadi dada bidang Alek yang hangat, Sari kembali kerja, kerja, kerja di salon lamanya yang hanya menjanjikan makro demabrasi bagi nasibnya yang terlanjur carut-marut).
+
+ 
+
+Sindiran-sindiran sosial yang tadinya hanya sedikit mengganggu di awal-awal film, sekarang jadi terasa maksa dan salah tempat. Misalnya, adzan subuh yang dijukstaposisikan dengan adegan coli—sindiran tentang kemunafikan kaum hiper relijius yang mengundang reaksi yaelaaah, yaiyalah. Sayang, karena sebenarnya adzan subuh dalam film ini sudah punya peran yang lebih menarik dan tidak klise: menjadi alarm bangun pagi buat Sari—bukan pengingat lebih baik solat daripada tidur tapi lebih baik bangun subuh daripada tidak kebagian antrian mandi di kosan. Suara adzan dari loudspeaker yang sering dikomplain mengganggu digambarkan menjadi sesuatu yang telah menjadi banal, fungsional, dan hanya berperan meningkatkan produktivitas kerja, kerja, kerja. Ini justru sindiran yang lebih radikal sebenarnya, adzan subuh sebagai Apple Watch purbakala!
+ 
+
+ 
+
+Bahasa yang menempel dan politik yang tempelan
+
+Bahasa film yang komersil sepertinya juga membuat Joko tidak bisa tidak menambahkan adegan-adegan yang tidak perlu hanya karena narasinya memang harus sesuai standar piramida Freytag: exposition-climax-dénouement. Contoh yang paling baik untuk ini adalah scene Sari striptease di kamar Alek yang dilistrikkan jadi sebuah disko, yang menjadi klimaks selesainya proyek mereka menghiasi dinding dengan keping-keping DVD sekaligus klimaks mekarnya cinta di antara mereka berdua. Scene ini jadi terasa mengada-ada karena harus ada saja, karena diwajibkan oleh plot dan bahasa film yang setia mengikuti pola piramida Freytag. Tidak ada keterangan lebih dalam tentang karakter Sari sebelumnya yang bisa mengindikasikan bahwa di balik mesam-mesem alaynya ia sebenarnya adalah seekor kupu-kupu siang malam yang sudah tidak sabar menunggu lepas dari persahabatan bagai kepompong dan ingin segera asyik-keluar-masuk  dalam percintaan sampai dengkul kopong. Justru Sari terlihat lebih tertarik dengan koleksi DVD Alek daripada koleksi otot di bicepnya. Waktu bercinta dengan Alek pun ia selalu lupa mencopot behanya!  
+
+Nasib yang sama terjadi pada kritik politik yang dilancarkan film ini sejak insiden deus ex Maxima tadi. Selain tempatnya mungkin lebih tepat dalam sebuah kultwit @jokoanwar berhashtag #politikitumunafik #bahagiatidaksederhana #keringetandikos #negaragagal, kritik ini juga harus dipanjang-panjangkan untuk mencapai dénouement-nya sendiri. Alek harus dihilangkan dan si pembunuh berkeringat dingin yang dibayar menghilangkannya harus dengan klise dan dalam ironi yang dipaksakan ngobrol-ngobrol sok sersan tentang masalah sejuta umat honor kecil nggak bisa nabung belum bisa beli rumah, sementara Alek terkapar tak berdaya mungkin juga tak bernyawa di dekat kakinya. Sepertinya, poin bahwa Jakarta kejam tiada tara terhadap kroco-kroco lumpenproletariatnya sudah ditegaskan berkali-kali, tidak perlu lagi diulang dalam adegan-adegan sadis-ironis ala Joko Anwar. Atau mungkin itu poinnya, adegan-adegan seperti itu harus ada karena ini masih film Joko Anwar, yang harus mengandung adegan-adegan sadis-ironis ala Joko Anwar. Tapi itu justru membuat kritik politik dalam film ini jadi terkesan lebay—karena yang diomongkan sebenarnya tidak lebih dalam daripada politik itu munafik dan menyiksa wong cilik, tapi dinyatakan berulang-ulang, dan bahkan di akhir film seperti telah menyisihkan sama sekali kisah romantis-tragis tentang koneksi personal antara Alek dan Sari yang sebenarnya mengharukan. Karena porsinya yang terlalu besar sementara kemunculannya begitu mengejutkan, kritik politik dalam film ini terkesan seperti sekedar tempelan, mungkin untuk menambah bobot kisah romansa yang takutnya dianggap terlalu 4LAy. Kenapa harus drama? Kenapa tidak? 
+
+ 
+
+Diskrepansi tema dan bahasa
+
+Dalam sebuah percakapan di awal pedekate Alek dan Sari, Alek mewanti-wanti Sari si maniak DVD agar jangan membeli DVD bajakan yang berlabel “Combo Format”, karena DVD yang berlabel itu pasti hasil kopian dari kopian dari kopian yang kesekian, sehingga gambarnya pasti jelek. Adegan ini bisa menjadi metafora bagi keengganan Sari dan Alek menjadi sekedar manusia-manusia combo format, sekedar copy dari ratusan juta manusia Indonesia lain yang hidupnya cepat atau lambat akan jadi makin kabur sebelum akhirnya hilang tanpa meninggalkan bekas, atau, bisa juga menjadi metafora kebelumberhasilan Joko (sampai di titik ini) untuk meninggalkan bahasa film komersilnya yang lama dan menciptakan bahasa baru yang lebih personal, lebih auteur.
+
+Jika “my” dalam A Copy of My Mind diinterpretasikan sebagai “Joko’s”, maka ternyata kepalanya masih mengandung banyak residu-residu bahasa film komersil, yang selalu berusaha, kadang terlalu keras, membuat penonton “going gaga”. Padahal ternyata bahasa seperti itu kurang cocok untuk menarasikan kisah romantis-tragis tentang mencuri-curi kebahagiaan sesaat di antara siksaan kesepian, keringetan, dan kemiskinan. Kisah tentang mereka yang dilumpuhkan, yang sudah penuh drama, ternyata tidak sesuai didongengkan dengan bahasa yang strukturnya dirancang untuk merekayasa melodrama. Film ini tidak sepenuhnya gagal menceritakan kisah manusia-manusia gagal, tapi ada diskrepansi yang signifikan di antara temanya yang personal dan bahasanya yang komersil—yang sering memaksakan yang personal menjadi politikal, dan yang politikal menjadi personal.
+
+Naik kelas memang tidak gampang.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">menurut saya bioskop indonesia sudah memihak film nasional</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_10"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">ngga juga sih, banyak kok film nasional yang udah ditayangin</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_11"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">bener banget, sekarang ini masih sulit kita menemukan bioskop yang menayangkan film nasional. sangat disayangkan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_12"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">sudah bayak bos</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_13"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">bener banget sist</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_14"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju gan. gue pengen banget nonton film nasional</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_15"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">haha karena lebih keren film luar</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_16"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">bukan karena harga tiket, tapi emang peminatnya kurang</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_17"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">ngga juga sih</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_18"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">banyak faktor lain</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_19"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">bisa jadi karena film yang ditayangkan kurang menarik</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Menurut saya harga tiket bioskop tidak naik, dan peminatnya juga tidak berkurang, hanya saja film yang ditawarkan kurang peminatnya</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_20"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">bener banget</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_21"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">jangan mahal-mahal dong tiket masuknya</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_22"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">pantas saja</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_23"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">turunin harga tiket</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_24"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Dengan format penjurian yang baru, serta kepanitiaan yang terdiri dari “angkatan baru” dan “angkatan lama”, sudah mulai terbentuk dialog antar berbagai stakeholder industri perfilman Indonesia, kualitas dan integritas karya mulai menjadi “panglima” dalam penilaian, dan walaupun masih banyak kritik yang dapat dan patut dilontarkan secara umum FFI tahun ini lebih mendengar “suara terpinggirkan” dari sebelum-sebelumnya.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_25"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Tentu saja ini lebih baik karena ada komite yang menilai teknisnya dan ada dewan juri yang menilai istimewanya. Bagi saya keistimewaan film itu adalah menghibur dan positif.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_26"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju sekali ...mas karena juri ffi rata-rata orang yang enggak punya wawasan film buktinya kejadian ffi 2006 itu ,menangnya film eskul jadi film terbaik ,karna miskinnya para juri akan calenderstik dalam film merek enggak tahu kalau scoring film tersebut mengambil film hollywood gladiator,,,dan para seneas muda kita ya ngamuk he he hari -harinya mereka membedah film ...</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_27"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Seharusnya , setelah memberikan penghargaan , dewan juri sendiri memberikan alasan yang jelas mengapa film itu di menangkan .
+
+ada sesi diskusi dimana diskusi itu menjelaskan , mengkritik serta memberi saran film film yang di lombakan untuk mencerdaskan dan memberi pengalaman kepada sineas sineas muda untuk membuat film yang lebih berkualitas lagi .
+
+dan juga untuk mengurangi rasa “curiga” atau “tidak percaya” kepada dewan juri tersebut terhadap aspek pandangan penilaian mereka .
+
+CMIIW :)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_28"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">perlu ada awards semacam golden raspberry (Razzie) di indonesia banyak banget film2 sampah yang ceritanya itu2 mulu porn-horror, biar sineas kita tu lebih mentingin kualitas film bukan komersil film belaka</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_29"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">hahahaha…terlalu banyak yang sok ngerti tentang film terlalu banyak org sombong hahah…hanya bisa mengkritiiiik aja. sehingga lupa kl indonesia punya gak sih standart penilaian film dalam festival? orang film film indonesia aja gk punya standart. udahlah..indonesia ini terlau banyak orang yang ikut2an dan pengen terkenal mendadak. mending bikin karya yng bisa diingat anak cucu..dari pada mikirin pengen ngetop sampe menghalalkan segala cara. SEBERAPA BANYAK SIH ORANG YANG MENGHARGAI KARAYA ORANG LAIN TANPA KEPENTINGAN?</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_3"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">aduh jangan lah posesif</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_30"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">seharusnya film indonesia harus dianak emaskan namun film indonesia harus lebih gigih dan memeperbaiki kualiatas filmnya</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_31"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Di bulan Mei ada banyak film indo yg bagus
+Bertemakan pendidikan
+Tp aku liat di salah satu bioskop di Jakpus dia cuma muter film aadc2 n my stupid boss</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_32"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Hanya karena film Indonesia sepi penonton, Bioskop seenaknya menghilangkan film itu
+
+contoh:
+Film Dubmash, Tayang 9 Juni 2016, seminggu kemudian karena yang menonton film itu sepi, film itu hilang
+
+Conjuring 2, tayang 10 Juni 2016, sampai sekarang (3 Juli 2016), karena masih rame, masih tayang di bioskop</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_33"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Tentang film nasional…apakah film yang berbau nasionalis dan membawa kita (penonton) mendapatkan pelajaran tentang film tsb.
+Nyatanya produksi film2 sekarang lebih jauh dari nilai-nilai nasional..
+Begitupun bioskop..mereka memilih untuk dapat mengambil dan meraup keuntungan saja tanpa menilai apakah film tersebut dapat dijadikan pelajaran bagi penontonnya..
+Alangkah baiknya jika indonesia pun memiliki ruang khusus bagi pecinta film2 nasional yang akan menjadikan produktifitas perfilman semakin membaik..
+Thanks..</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_34"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Saya disini memang bukan anak film , tapi saya tau bahwa dalam membuat film yang bagus itu perlu mikir panjang. Saya setuju bahwa bioskop memihak film nasional. Sebuah film itu bagus atau tidak bagaimana kre film itu membuat sebuah film yang menjadi sasaran masyarakat pasti banyak di tonton. Kita contoh saja film dillan 1990an . sok contoh film dilm supaya bioskop nasional maju terus.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_35"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Menurut saya, paling tidak ada empat pihak yang terlibat dalam dan bertanggungjawab penuh atas maju atau mundurnya perfilman nasional, yakni pemerintah, pelaku perfilman, bioskop dan yang sejenis dan masyarakat (penikmat atau pengamat film). Bioskop hanya menjadi pelaku yang menyajikan kepada masyarakat film-film yang sudah diproduksi oleh pelaku perfilman dan pemerintah sebagai regulator yang terkait. Hendaknya masing-masing pihak saling bekerjasama meneliti dan menghasilkan film-film yang bermutu, yang digali dari kekayaan nilai-nilai budaya suku-suku bangsa di Indonesia yang masih banyak tersimpan tapi telah diakui dan dikagumi oleh dunia, dan tentunya juga dengan memperhatikan perkembangan budaya dan kemajuan peradaban dunia sekarang ini dan kedepan, supaya dapat mencapai tujuan berdirinya NKRI ini yakni mencerdaskan kehidupan bangsa yang akan melahirkan generasi-generasi emas pemimpin Indonesia yang dengan lantang berkata: “Garuda didadaku!”, “Indonesia: Merah darahku, Putih tulangku!”, “UUD 1945 konstitusi final negaraku!”, “Bhinneka Tunggal Ika Semboyan pemersatu bangsa kami!”, “Bahasa Indonesia bahasa pemersatu bangsa kami!”... Memimpikan cita-cita luhur para pendiri bangsa diatas tetap harus dijaga dan diperjuangkan sampai titik darah penghabisan, walaupun kondisi negara dan bangsa kita akhir-akhir ini tampaknya menjadi ajang pemurnian dan pengujian untuk Indonesia yang adil dan sejahtera yang diidam-idamkan…^_^</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_36"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Tiket mahal, Film indonesia kurang mendidik dan kurang ada bermanfaat, kadang-kadang endingnya juga gak jelas. Seperti Supernova. Inti nya itu perselingkuhan dan gay.. yg gak layak ditonton sama anak2 sekolah.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_37"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Karena harga tiket nonton film luar dan dalam negeri sama saja, maka penonton akan lebih memilih yang lebih bagus.
+Bayangkan saja seumpama pembeli daging dihadapkan pada harga daging ayam dan daging sapi sama, maka akan lebih memilih daging sapi. Demikian juga penonton film di bioskop. Ada baiknya dibuat kebijakan harga tiket untuk film-film tanah air dimurahkan, sedangkan untuk tiket nonton film-film luar lebih mahal.
+Kita perlu hargai karya anak bangsa.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_38"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">saya setuju. menurut saya harga tiket juga mempengaruhi jumlah penonton. jika harga tiket film luar dan dlm negeri sama. otomatis orng lbih memilih nonton film luar karna mayoritas film luar kualitasnya cendrung diatas. alangkah baiknya kualitas film indonesia juga ditingkatkan dan harga tiket film dlm negeri diturunkan dan untuk harga film luar dinaikan.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_39"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Dalam konteks judulnya memang harga tiket salah satu faktor berkurangnya jumlah penonton. akan tetapi di lain konteks seperti kualitasnya dll, saya tidak setuju. mari kita berpikir satu konteks ini saja bukan yang lain-lain. Kualitas film indonesia bertambah baik dengan era digital sekarang.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_4"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">wih, pengen deh ditawarin main film juga</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_40"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">setuju. tiket semakin mahal, pembajakan lebih cepat dilakuakn, menghasilkan semakin sedikitnya peminat film di bioskop dan lebih memilih film bajakan yang pastinya lebih merugikan negara dan produsen film dalam dan luar negeri yang melakuakn investasi film di Indonesia</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_41"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Bukan 1-1 nya faktor, namun kalo hrg tiket murah, pasti lbh banyak yg nonton k bioskop. Ingat bangsa kita ini mayoritas masih belum sejahtera secara ekonomi, jadi ya, harga tiket ngaruh ke jumlah pembeli tiket.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_42"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Rakyat indonesia sebagian besar adalah rakyat dengan tingkat ekonomi menengah kebawah. Seharusnya film indonesia mendapat subsidi dari pemerintah. Atau bahkan hidupkan kembali bioskop rakyat seperti jaman 80n.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_43"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Mestinya harus ada. Paling tidak ini akan membuat segmen pasar tersendiri, dan lebih banyak film nasional yang akan turut berkiprah di dalamnya. Relatif kurang bijak kalau seluruh film nasional ‘diadu’ secara ‘frontal’ dengan film-film impor. Bahwa nantinya ada film nasional dalam ‘kategori’ siap ‘diadu’ itu persoalan lain.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_44"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">1 bioskop minimal harus ada 1 film indonesiaa</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_45"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Saya disini memang bukan anak film , tapi saya tau bahwa dalam membuat film yang bagus itu perlu mikir panjang. Saya setuju bahwa bioskop memihak film nasional. Sebuah film itu bagus atau tidak bagaimana kre film itu membuat sebuah film yang menjadi sasaran masyarakat pasti banyak di tonton. Kita contoh saja film dillan 1990an . sok contoh film dilm supaya bioskop nasional maju terus.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_46"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Dalam hal ini saya sebagai sineas muda kelas rocky(baru) dalam dunia film Indonesia, menanggapi artikel ini saya tidak setuju karena faktanya sudah cukup banyak film-film Indonesia yang diberikan layar oleh pihak bioskop bahkan bukan hanya film indonesia yang bersifat komersil namun belakangan ini film-film yang bersifat seni atau filmis sudah banyak ditayangkan. Ini menjadi angin segar dalam film indonesia dengan memberikan warna yang baru dan berbeda dalam film indonesia. Namun mungkin pertanyanya apakah Bioskop bisa membuka kesempatan lebih besar dan banyak bagi para sineas muda baru yang akan berkecimpung di dunia film layar lebar kedepannya.Salam kreatif!</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_47"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Sangat diperlukan untuk meng-apresiasi para sineas/film maker made in dalam negeri, terutama bagi para sineas pendatang baru. Sangat sulit bagi rumah produksi kecil dengan sineas pendatang baru untuk bisa masuk ke bioskop-bioskop yang ada. Apalagi di Indonesia terdapat 2 raksasa bioskop yang tentunya didominasi oleh mereka.
+Bioskop dengan peruntukkan khusus film Indonesia diharapkan dapat menampung kreativitas para sineas muda kita dalam mengembangkan film Indonesia di mata Internasional. Semoga ....
+
+Danni-sutradara</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_48"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Dengan syarat; film Indonesia yang berhak untuk ditayangkan di layar khusus itu harus yang benar-benar layak.
+
+Menayangkan kembali film-film Indonesia lama (baik pendek ataupun panjang) dan atau film-film baru independen pun tidak masalah, selama punya kualitas dan atau punya value yang layak untuk disajikan kepada para penikmat film di tanah air.
+
+Tapi kalau ujung-ujungnya yang ditayangkan film-film Indonesia yang cuma ngejual sensasi, cerita yang dangkal dan dipenuhi pemeran-pemeran yang ga bisa ekting bagus sih mending ga usah.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_49"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">walaupun banyak film-film indonesia yang tayang dan sangat dikagumi orang-orang di luar negeri tapi betapa sangatt disayangkan jika rakyat kita sendiri tidak dapat berpartisipasi mengapresiasikan karya-karya ini? yang rakyat indonesia kini dapatkan hanya film-film horror plus plus yang kadang membuat saya miris. sungguh saya berharap film-film berkualitas film festival internasional juga dapat memenuhi layar-layar lebar di bioskop-bioskop ternama di tanah air, atau bahkan film-film pendek yang diproduksi oleh sineas-sineas baru, untuk bisa mendapatkan apresiasi seperti yang telah disampaikan pada tanggapan-tanggapan sebelum saya. jika saya pun sebagai hanya penikmat fim harus turun tangan membuat sebuah bioskop yang menyediakan tempat untuk itu semua, saya siap.
+
+hening-mahasisiwi :)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_5"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">hebat banget bisa ditawarin main film</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_50"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Bermimpi agar indonesia suatu hari nanti ada industri perfilmannya. jadi bukan home industri lagi tapi benar-benar industri. jadi saya setuju, karena dengan layar khusus mudah-mudahan menjadi titik awal perjalanan menuju industri perfilman indonesia yang besar.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_6"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">pasti filmnya keren banget deh</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_7"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">tayang mulai kapan ya?</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_8"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">cocok deh judul filmya &quot;Posesif&quot;! udah ga sabar pengen nonton</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#tanggapan_9"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">aaaaaaa! ngefans banget sama Marcel. kapan ya bisa ketemu Marcel. haha ketinggian ngarep deh gue</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Bioskop Belum Memihak Film Nasional</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#topik_debat_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Jumlah layar bioskop di Indonesia terus bertambah. Hingga penghujung 2015 jumlahnya sudah 1088 layar, meskipun persebarannya relatif belum meluas dibanding tahun lalu, yaitu baru menjangkau 48 kabupaten/kota di 23 provinsi. Akan tetapi bertambahnya pasokan layar tidak serta merta memperbesar pasar film Indonesia.
+
+Total jumlah penonton hingga minggu ketiga Desember lalu baru mencapai sekitar 12,9 juta dari 114 judul film (masih ada tiga judul lagi yang akan beredar tahun ini), sehingga totalnya diprediksi akan relatif sama dengan tahun lalu dengan capaian sekitar 15,5 juta dari 111 judul film.
+
+Apabila tahun 2104 terdapat dua film ditonton lebih dari satu juta penonton dan enam film lain di atas 500 ribu penonton, tahun ini baru dua film meraup penonton di atas 1 juta dan tiga film lainnya di atas 500 ribu. Namun lima film Indonesia penutup 2015 (Single, Bulan Terbelah di Langit Amerika, Negeri van Oranje, Sunshine Becomes You, dan Ngenest) berpotensi menghimpun penonton leboh dari 500 ribu bahkan 1 juta.
+
+Dalam kondisi seperti ini praktis isu yang berkembang di kalangan industri pefilman nasional tetap sama dengan tahun-tahun sebelumnya.
+
+Pertama, perihal pertambahan jumlah layar dan perluasan persebarannya. Kehadiran jaringan bioksop baru (Cinemaxx), rencana ekspansi dua jaringan lama (Cinema 21/XXI dan GVC Blitz, serta maraknya kemunculan bioskop-bioskop independen sepanjang 2015 dianggap belum memadai. Tiga asosiasi produser, yakni PPFI (Persatuan Perusahaan Film Indonesia), Aprofi (Asosiasi Produser Film Indonesia), dan APFI (Asosiasi Produser Film Indonesia), semakin keras mendesak pemerintah untuk mencabut bidang usaha distribusi film (ekspor, impor, dan pengedaran) dari daftar investasi negatif (DNI). Artinya, mereka sangat menginginkan investor asing diperbolehkan membuka jaringan bioskop di seluruh Indonesia.
+
+Dalam hal ini nampaknya Badan Koordinasi Penanaman Modal (BKPM) dan Badan Ekonomi Kreatif (Bekraf) sudah satu suara. Masalahnya tinggal pada besaran persentase kepemilikan. BKPM mengusulkan minimal 51 persen kepemilikan asing, seperti dikatakan Wakil Kepala Bekraf Ricky Pesik kepada Tempo, edisi 27 Desember 2015. Dikatakannya juga, batas maksimalnya 80 persen.
+
+Kedua, soal pemihakan bioskop kepada film Indonesia. Boleh dibilang hampir dalam setiap pertemuan kalangan perfilman nasional isu tersebut selalu muncul dalam bentuk mulai dari keluhan, gunjingan, sampai tudingan.
+
+A. Rahim Latif, pengedar dan importir film sejak lebih dari 40 tahun lalu, sampai membuka artikelnya di Harian Kompas, Minggu, 2 Agustus 2015, dengan mengutip pernyataan aktor senior Slamet Rahadjo kepada Presiden Joko Widodo, ”Mas Jokowi, iki tenan loh, Pak. Film Indonesia ora duwe bioskop.”
+
+Cahterine Keng, Corporate Scretary Cinema 21, secara khusus menanggapi artikel yang ditulis A. Rahim Latif dengan menjelaskan bahwa selama ini pihaknya selalu terbuka terhadap produser film nasional. Ia menyatakan, “Posisi Cinema 21 tegas memihak kepada masyarakat penonton karena kami ada untuk melayani penonton.”
+
+Dua minggu berselang Garin Nugroho menulis di surat kabar yang sama untuk menegaskan kritiknya kepada jaringan bioskop yang ada agar berhenti menganakemaskan Hollywood dan menganaktirikan film nasional. Menurutnya, karakter bangsa yang menjadi jargon pemerintahan Joko Widodo tidak mungkin tumbuh di tengah peradaban pasar bebas seperti yang berlangsung dewasa ini. (Perdebatan ini bisa dibaca selengkapnya di artikel-artikel acuan)
+
+DI luar perdebatan itu, Undang-undang (UU) Nomor 33 Tahun 2009 tentang Perfilman sebetulnya sudah mengatur bahwa “Pelaku usaha pertunjukan film sebagaimana dimaksud dalam Pasal 29 ayat (3) wajib mempertunjukkan film Indonesia sekurang-kurangnya 60% (enam puluh persen) dari seluruh jam pertunjukan film yang dimilikinya selama 6 (enam) bulan berturut-turut.” (Pasal 32). Tapi ketentuan itu tampaknya juga tidak mendapat dukungan bulat dari seluruh kalangan perfilman nasional. Lagi pula, karena pemerintah tidak kunjung menerbitkan peraturan perlaksanaannya, pasal tersebut sampai hari ini masih seperti “macan kertas”.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Jumlah penonton film Indonesia turun karena harga tiket bioskop naik.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#topik_debat_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Harga tiket bioskop di Indonesia terus mengalami kenaikan. Sebagai contoh, marilah kita simak dinamika harga tiket Grup 21 selaku pemilik 83% bioskop nasional. Pada Agustus 2012, rata-rata harga tiket bioskop jaringan Grup 21 berada pada kisaran Rp 34.257,-. Kemudian, pada bulan Desember 2013 atau dalam rentang waktu 1,5 tahun, rata-rata harga tiket bioskop telah mencapai sekitar Rp 42.130,- atau mengalami kenaikan sekitar 19%. Rata-rata harga tiket di Grup 21 ini terus mengalami kenaikan hingga pertengahan tahun 2014. Pada Mei 2014 misalnya, rata-rata harga tiket telah mencapai Rp 43.604,-. Kemudian dalam rentang waktu satu bulan saja, rata-rata harga tiket Grup 21 telah mencapai Rp 44.055,-. Artinya, dalam kurun waktu Agustus 2012 hingga Juni 2014, harga tiket Grup 21 mengalami kenaikan sebesar Rp 9.768,- atau sekitar 28,5%.
+
+Kenaikan harga tiket bioskop yang tidak mencapai harga satu bungkus rokok, ternyata berdampak cukup signifikan terhadap menurunnya jumlah penonton film Indonesia. Jika pada 2010 jumlah penonton film Indonesia mencapai sekitar 15,6 juta penonton, maka pada 2013, jumlah penonton menurun drastis menjadi sekitar 12,4 juta penonton atau kehilangan sekitar 3,2 juta penonton. Mahalnya harga tiket bioskop nampaknya menjadi salah satu faktor yang membatasi aksebilitas orang-orang pada segmentasi kelas sosial tertentu untuk menonton film di bioskop.  Anggaplah pada 2012, calon penonton dengan kocek Rp 35.000 sudah dapat menonton film di bioskop, maka dengan rata-rata harga tiket mencapai Rp 44.000 pada Juni 2014, calon penonton tersebut kehilangan kesempatan untuk menikmati tayangan film di bioskop.
+
+Turunnya jumlah penonton ini malah bertolak belakang dengan tren bertambah banyaknya jumlah film Indonesia yang diproduksi. Jika pada 2010 jumlah film yang beredar hanya berjumlah 81 film, maka pada 2013 mencapai 99 film atau bertambah 18 film. Jika kenaikan harga tiket dan jumlah film Indonesia terus terjadi, maka peluang setiap film Indonesia untuk mendapatkan penonton semakin kecil. Kondisi tersebut perlu segera disiasati, salah satunya adalah dengan mempertimbangkan lagi harga tiket yang berlaku sekarang ini.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#topik_debat_3"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Penghargaan-penghargaan film di Indonesia belum bisa jadi acuan kualitas perfilman nasional</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#topik_debat_3"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Festival Film Indonesia kembali menuai kecaman. Beberapa pemenang, termasuk kategori film terbaik, dianggap tidak layak mendapat Piala Citra. Sistem penjurian FFI yang jadi sorotan. Ada kesenjangan antara penilaian juri dengan penilaian pekerja, penggiat, dan pemerhati film secara umum. Bagi publik, masih ada pilihan lain yang lebih pantas menang.
+
+Walau skalanya tak sama besar, polemik FFI 2012 ini serupa dengan FFI 2006. Kala itu BPPN (Badan Pertimbangan Perfilman Nasional) membatalkan kemenangan Ekskul sebagai film terbaik dan Nayato Fio Nuala sebagai sutradara terbaik. Pemantiknya adalah protes dari sekelompok penggiat film yang menyebut diri sebagai Masyarakat Film Indonesia (MFI) perihal pelanggaran hak cipta penggunaan musik dalam film Ekskul. Protes tersebut disusul dengan aksi pengembalian piala, serta seruan boikot pelbagai kegiatan perfilman milik pemerintah, termasuk FFI.
+
+Ada tiga isu yang patut digarisbawahi. Pertama, sistem penjurian warisan lama dalam situasi hari ini sudah terlampau eksklusif. Bahkan setelah tahun lalu jumlah anggota Komite Seleksi dan Dewan Juri ditambah menjadi 9 dan 15 orang, dari sebelumnya hanya 5-7 orang. Yang kini diperlukan dalam penjurian bukan sekadar jumlah, melainkan kompetensi. Idealnya, penilaian dilakukan oleh para penggiat dan pekerja film yang benar-benar memahami bidang keahliannya, serta mengikuti perkembangan mutakhir dari estetika sinema.
+
+Kedua, juri-juri FFI sekarang bukanlah representasi faktual dari perfilman nasional. Nama-nama yang mengisi juri FFI kebanyakan berasal dari organisasi-organisasi profesi warisan Orde Baru, macam KFT, Parfi, PPFI, dan lain-lain. Ada kesan pemerintah dan panitia FFI masih meyakini bahwa mereka adalah representasi pekerja film. Faktanya, sebagian besar pekerja film yang aktif hari ini tidak berasal dari organisasi-organisasi tersebut.
+
+Ketiga, kritikan terhadap FFI belum berdampak pada terbentuknya festival atau kompetisi tandingan yang setara. Memang di tahun 2012 kemarin sempat muncul beberapa nama baru, namun belum mampu menyaingi FFI dari segi citra dan eksposur. Ada Apresiasi Film Indonesia, bentukan Kementerian Pendidikan dan Kebudayaan. Sayangnya, kompetisi yang diselenggarakan masih sekadar tiruan pucat dari format serta kategori-kategori yang dilombakan FFI.
+
+Ada pula Piala Maya, inisiatif media sosial @film_indonesia. Jurinya berumlah seratus orang, yang terdiri dari jurnalis film, praktisi periklanan dan media, akademisi, penyiar radio, blogger, perancang busana, mahasiswa, perwakilan komunitas film, dan lain-lain. Kategori-kategori yang dilombakan terhitung komprehensif, di mana jumlah profesi yang diberi penghargaan jauh lebih banyak dibanding FFI. Mereka juga melombakan film pendek, animasi, dokumenter, film berbahasa daerah, dan penulis kritik. Umur penghargaan ini masihlah sangat muda. Perlu dilihat ke depan apakah Piala Maya bisa diselenggarakan secara rutin tiap tahunnya.
+
+Satu-satunya festival yang mampu mengimbangi FFI dari segi penyelenggaraan adalah Festival Film Bandung (FFB). Festival bentukan intelektual dan budayawan Kota Kembang ini digelar tanpa putus dari tahun 1987, bahkan ketika FFI mati suri dari tahun 1993 sampai 2003. Sayangnya, FFB kurang eksposur dan kurang dikenal khalayak umum. Meski sudah berumur 25 tahun, baru tahun 2012 kemarin malam penghargaan FFB disiarkan langsung di stasiun televisi nasional.
+
+Keberadaan festival atau kompetisi tandingan ini krusial, tidak saja bagi FFI tapi bagi perfilman secara keseluruhan. Banyak kompetisi akan melahirkan banyak sudut pandang, yang pada perkembangannya dapat mendorong masing-masing festival untuk memperketat kompetisinya dan memantapkan identitasnya. FFI memang perlu banyak pembenahan dari dalam, tapi juga dibutuhkan tekanan dari luar supaya perubahan tersebut dapat terjadi. Budaya apresiasi perlu digalakkan. Bagaimanapun juga, film tidak saja bergantung pada tuntutan pasar tapi juga perkembangan estetik. Perfilman yang sehat adalah perfilman yang menghargai keduanya.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#topik_debat_4"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Perlu ada layar khusus film Indonesia di bioskop</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#topik_debat_4"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Kantong penonton film di Indonesia tidaklah besar. Akibat pola pembangunan bioskop yang berprinsip “satu mall, satu bioskop”, tercipta persebaran layar yang tak merata. Saat ini tercatat ada 152 sinepleks dengan total 672 layar untuk 237 juta penduduk Indonesia. Berarti masing-masing layar harus bertanggungjawab untuk 352 ribuan penonton, kalau hendak dibagi rata. Sebuah beban yang mustahil, bukan saja karena kapasitas studio bioskop berkisar dari 100an sampai 300an orang, tapi juga karena ketidakmerataan persebaran.
+
+Baru-baru ini, data dari Direktorat Pengembangan Industri Perfilman Kementerian Pariwisata dan Ekonomi Kreatif serta Badan Pusat Statistik mengungkapkan ada 10 dari 33 provinsi yang tidak memiliki bioskop. Sepuluh provinsi tersebut adalah Aceh, Kepulauan Bangka-Belitung, NTB, NTT, Gorontalo, Sulawesi Tengah, Sulawesi Barat, Maluku Utara, Papua, dan Papua Barat. Dari 498 kota atau kabupaten di Indonesia, 443 atau 89 persen di antaranya tidak punya bioskop. Betapa timpang atau kalau mau bersikap optimis: betapa masih luasnya potensi pasar yang belum tergarap bila tata niaga dan tata edar film tidak dipertahankan seperti sekarang.
+
+Di lingkungan bioskop sendiri sedang terjadi revolusi teknologi besar-besaran. Sejak tahun lalu bioskop-bioskop di Indonesia mulai menggunakan teknologi pemutaran digital paling mutakhir yang segera menjadi standar global, yaitu DCP (digital cinema package). Di satu sisi, penggunaan DCP memangkas banyak biaya, terutama bagi para pembuat film. Produksi dengan kamera digital bisa langsung diproses, tanpa perlu di-blow up ke format seluloid 35mm. Penggunaan DCP pun lebih murah dibanding ongkos cetak kopi seluloid, karena satu materi DCP bisa digunakan untuk beberapa layar sekaligus.
+
+Di sisi lain, DCP semakin melanggengkan dominasi film impor, karena dengan biaya murah importir dan bioskop bisa menayangkan satu film di sebanyak-banyaknya layar. Bioskop-bioskop kecil yang masih memakai proyektor analog juga menjadi korban. Mereka praktis tidak bisa lagi menayangkan film-film impor baru. Harga proyektor digital yang sangat mahal pun bakal menyulitkan para pengusaha lain untuk membuka bioskop baru, yang berarti juga memperkecil kemungkinan perluasan kantong penonton di Indonesia.
+
+Saat ini belum ada regulasi yang menjamin masa tayang film Indonesia di bioskop. Yang berlaku adalah hukum pasar, di mana suatu film harus mencapai jumlah penonton minimum di minggu pertamanya, untuk kemudian diperpanjang peredarannya di bioskop. Masalahnya, pihak bioskop tak pernah mengumumkan berapa jumlah penonton minimum yang dimaksud. Film Indonesia pun harus bersaing dengan film impor, tanpa ada data dan aturan yang bisa dipantau publik.
+
+Perlu ada layar khusus film Indonesia di bioskop. Malaysia punya Skema Wajib Tayang yang mengharuskan bioskop memutar satu film Malaysia, selama empat belas hari berturut-turut di studio yang berkapasitas kursi paling besar di masing-masing bioskop. Indonesia seharusnya punya regulasi serupa. Bagaimana pendapat Anda?</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#topik_debat_5"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Dunia film Indonesia tak kenal lagi bintang</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#topik_debat_5"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Apakah itu bintang film? Pertanyaan ini bisa dijawab dengan cara beragam. Buktinya bisa dilihat dari kemunculan nama-nama bintang sepanjang sejarah sinema Indonesia.
+
+Dekade 1970an silam ada the big five, yang terdiri dari Roy Marten, Doris Callebaute, Yati Octavia, Yenny Rachman, dan Robby Sugara. Disebut demikian karena kelimanya menentukan honor terbesar saat itu: lima juta rupiah per film. Film-film yang mereka bintangi tak selalu film-film yang dicap berkualitas baik oleh para pengamat film, namun keberadaan mereka tak bisa disangkal memiliki nilai jual yang besar. Mereka punya kualitas glamor tersendiri dan basis penggemar yang cukup besar, ditambah dengan pemberitaan kehidupan pribadi mereka oleh media, yang menjadikan nama mereka menjadi semacam jaminan laris. Tak peduli bagaimana kualitasnya, film-film mereka pastilah ditonton orang. Nilai jual inilah yang menjadikan karier kelimanya terhitung panjang. Nama mereka terus beredar di perfilman Indonesia hingga tahun 1990an. Roy Marten dan Yenny Rachman bahkan masih main film di era 2000an.
+
+Daya tarik serupa dapat kita temukan juga dari nama-nama macam Benyamin Sueb, Warkop DKI, dan Suzanna. Nama mereka boleh jadi kurang pas disandingkan dengan kata “glamor”, namun konsistensi karier mereka menjadikan nama mereka begitu erat dengan genre film tertentu. Benyamin Sueb dan Warkop DKI dengan film-film komedi, sementara Suzanna horor. Mereka populer berdasarkan asosiasi. Publik biasa melihat nama mereka dalam genre-genre film tertentu, sehingga lahir basis penggemar tersendiri bagi nama-nama tersebut. Hal ini terbukti punya dampak positif bagi kelarisan film. Film-film Warkop DKI, misalnya, hampir pasti menempati lima film terlaris di Jakarta sepanjang tahun 1980an. Sampai sekarang nama mereka masih menjadi wajah bagi komedi dan horor Indonesia, terlebih lagi Suzanna sempat main film di era 2000an sementara Warkop DKI beredar di acara televisi.
+
+Daya tarik yang berbeda muncul dari nama-nama semacam Alex Komang, Slamet Rahardjo dan Christine Hakim. Popularitas ketiganya lebih dekat dengan aspirasi artisik yang mereka pancarkan. Buktinya, dibanding nama-nama yang sudah disebutkan sebelumnya, karier mereka lebih sering dikenang berdasarkan penghargaan-penghargaan yang mereka raih, ketimbang glamor selebritis maupun asosiasi terhadap genre tertentu. Karier ketiganya pun terhitung panjang, masih bermain film di tahun 2000an, dan melewati tiga fase: teater, film, dan televisi.
+
+Terjelaskan ada pola yang beragam dalam pembentukan bintang film. Apabila kita rangkum, ada dua benang merah yang dapat kita tarik. Pertama, mereka punya basis penggemarnya sendiri. Semua nama di atas mampu menarik perhatian mata publik dan bertahan lama di ingatan kolektif masyarakat. Kedua, karier mereka panjang. Karier mereka bisa tetap berlanjut walau terjadi perubahan dalam tubuh industri sendiri, mulai dari perubahan selera penonton dari tahun ke tahun, naiknya industri televisi di dekade 90an, dan kolapsnya industri perfilman nasional di periode yang sama. Sederhananya, selalu ada demand untuk mereka.
+
+Menjadi menarik melihat perfilman Indonesia sekarang pasca kolaps tahun 90an. Industri sudah terhitung stabil, setidaknya dari segi produksi kita sudah bisa mematok ada 70 sampai 80an film lokal per tahun. Kekuatan media juga jauh lebih besar dibanding di dekade-dekade sebelumnya. Dalam hitungan detik internet mampu memperbaharui informasi publik. Perhitungkan juga luas jaringan televisi dan kerutinannya mempublikasikan informasi dari yang paling esensial hingga yang paling trivial ke khalayak luas. Infrastrukturnya sudah tersedia bagi industri perfilman nasional untuk melahirkan generasi baru bintang film. Anehnya, generasi penerus itu tak kunjung datang.
+
+Pasca Ada Apa Dengan Cinta? tahun 2001, publik Indonesia mendapati dua calon bintang dalam diri Dian Sastrowardoyo dan Nicholas Saputra. Sayangnya, setelah itu nama keduanya tenggelam dan hanya sesekali menarik perhatian publik: Dian dalam Ungu Violet, sementara Nicholas dalam Gie dan Janji Joni. Ketiganya populer di kalangan tertentu saja. Ada juga Shandy Aulia yang naik daun pasca kesuksesan Eiffel I’m in Love. Setelah itu, ia hanya bermain lagi dalam satu film, Apa Artinya Cinta, sebelum akhirnya lebih populer menjadi bintang sinetron dan film televisi. Tora Sudiro pasca Arisan! (2003) juga tidak lebih baik. Ia bermain dalam sejumlah film komedi, namun belum bisa dibilang kalau dirinya adalah ikon komedi Indonesia, mengingat film-film yang ia bintangi dalamnya tak begitu sukses di pasaran. Dari film horor, ada nama Julia Perez yang baru-baru ini digadang sebagai penerus Suzanna. Namun, menilik filmografinya, baru Arwah Goyang Karawang yang terhitung baik penjualannya, yang itu juga lebih disebabkan oleh kontroversi pertengkaran Julia Perez dengan Dewi Perssik.
+
+Dalam skala kecil, kita mendapati pembuat film lebih populer ketimbang pemain filmnya sendiri. Nama-nama seperti Mira Lesmana, Riri Riza, Nia Dinata, Hanung Bramantyo, dan Joko Anwar bisa dibilang lebih lekang zaman (dalam konteks naik turun industri sepanjang tahun 2000an) dan lebih memungkinkan mendatangkan penonton ketimbang nama pemain filmnya sendiri. Dalam skala besar, kita mendapati industri film Indonesia sekarang seperti tak punya wajah publik. Di industri musik, kita bisa dengan mudah memetakan pergantian trend dari tahun ke tahun, mulai dari pop picisan, pop melayu, hingga imitasi pop Korea seperti yang terjadi sekarang. Masing-masing punya masa edar, ikon, dan basis penggemarnya tersendiri. Begitu juga dengan industri televisi. Masing-masing stasiun televisi punya beberapa nama, yang kemudian dipopulerkan lewat serangkaian sinetron dan acara televisi. Ada nama-nama yang publik bisa asosiasikan dengan televisi.
+
+Beda halnya dengan industri film. Perfilman Indonesia sekarang seperti tidak lagi mengenal konsep “bintang film”, figur-figur di layar yang publik gandrungi dan cukup menjadi alasan bagi mereka untuk memenuhi gedung bioskop. Bagaimana pendapat Anda? Apakah ada figur yang kita bisa sebut sebagai “bintang film” di industri perfilman sekarang?</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#judul"/>
+        <NamedIndividual IRI="#topik_debat_6"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Dengan perubahan-perubahan yang dilakukan, FFI tahun ini diharap jadi lebih baik.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#konten"/>
+        <NamedIndividual IRI="#topik_debat_6"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">Festival Film Indonesia kembali lagi, kali ini dengan slogan &quot;Perbaikan Membutuhkan Perubahan&quot;. Perbaikan apakah yang dimaksud?
+
+Satu program yang dicanangkan tahun ini (dan sedang dijalankan) adalah Safari FFI. Bekerja sama dengan komunitas film, kampus, maupun gedung kesenian, panitia FFI mengorganisir pemutaran serta diskusi publik di lima kota. Film-film yang diputar tidak terbatas pada film panjang saja, tapi juga film pendek, dokumenter, dan televisi. Safari FFI terkait dengan satu hal yang kerap absen dalam penyelenggaraan di tahun-tahun sebelumnya: ekshibisi. Tujuannya ada dua. Jangka pendeknya: memperkenalkan film-film yang berkompetisi di FFI pada publik. Jangka panjangnya: merangsang partisipasi publik yang lebih luas, terutama dari daerah-daerah di luar ibukota.
+
+Perubahan terbesar terjadi pada sistem penjurian untuk film bioskop. Berbeda dengan tahun lalu, Komite Seleksi berubah menjadi Komite Nominasi. Perubahan nama menunjukkan perubahan jenis pekerjaan. Komite Nominasi bertugas memilih film berdasarkan unsur teknisnya, seperti cerita, gambar, suara, musik, dan pemeranan, sehingga terpilih nominasi untuk masing-masing unsur. Dewan Juri kemudian memilah kembali film-film pilihan Komite Nominasi, untuk menetapkan nominasi film terbaik.
+
+Dengan mengacu pada unsur teknis, penilaian di seleksi awal diharapkan bisa lebih terukur. Menilai film berdasarkan unsur teknis lebih mudah dipertanggungjawabkan, karena prosesnya berlandas pada elemen-elemen yang kasat mata. Penilaian akhir yang dilakukan Dewan Juri juga jadi lebih fokus. Mereka tidak perlu lagi berurusan dengan soal teknis. Mereka tinggal memilih film mana yang secara keseluruhan paling istimewa, dan memilih yang terbaik dari unsur-unsur teknis yang diusulkan Komite Nominasi.</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_1"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">nova</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_10"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">hendra</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_11"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">ucup</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_12"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">dadang</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_13"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">sule</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_14"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">angel</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_15"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">dinda</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_16"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">ryan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_17"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">aprilia</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_18"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">deni</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_19"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">adi</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_2"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">budi</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_20"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">putu</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_21"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">made</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_22"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">komang</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_23"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">nyoman</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_24"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">kadek</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_25"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">ketut</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_3"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">cameng</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_4"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">sumirani</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_5"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">radheya</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_6"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">andi</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_7"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">gina</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_8"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">agus</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#username"/>
+        <NamedIndividual IRI="#user_9"/>
+        <Literal datatypeIRI="http://www.w3.org/2000/01/rdf-schema#Literal">lidya</Literal>
+    </DataPropertyAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#melihat"/>
+        <Class IRI="#user"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#memberi"/>
+        <Class IRI="#user"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#memposting"/>
+        <Class IRI="#admin"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#memposting"/>
+        <Class IRI="#user"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#artikel"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#film"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#katalog"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#resensi"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#topik_debat"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#mendapat"/>
+        <Class IRI="#tanggapan"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#melihat"/>
+        <Class IRI="#film"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#melihat"/>
+        <Class IRI="#katalog"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#melihat"/>
+        <Class IRI="#trailer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#memberi"/>
+        <Class IRI="#polling"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#memberi"/>
+        <Class IRI="#tanggapan"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#memposting"/>
+        <Class IRI="#artikel"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#memposting"/>
+        <Class IRI="#katalog"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#memposting"/>
+        <Class IRI="#resensi"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#memposting"/>
+        <Class IRI="#topik_debat"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#film"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#gendre"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#kategori"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#polling"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#tanggapan"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#mempunyai"/>
+        <Class IRI="#trailer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#mendapat"/>
+        <Class IRI="#balasan_tanggapan"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#isi"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="#judul"/>
+        <Class IRI="#resensi"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#judul"/>
+        <Class IRI="#topik_debat"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#konten"/>
+        <Class IRI="#artikel"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#konten"/>
+        <Class IRI="#balasan_tanggapan"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#konten"/>
+        <Class IRI="#resensi"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#konten"/>
+        <Class IRI="#tanggapan"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#username"/>
+        <Class IRI="#user"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#judul"/>
+        <Datatype abbreviatedIRI="rdfs:Literal"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#konten"/>
+        <Datatype abbreviatedIRI="rdfs:Literal"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#username"/>
+        <Datatype abbreviatedIRI="rdfs:Literal"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
